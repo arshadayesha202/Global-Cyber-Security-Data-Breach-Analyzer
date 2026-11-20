@@ -1,2 +1,3 @@
 # Global-Cyber-Security-Data-Breach-Analyzer
 Data analysis project using Python and Pandas to clean and analyze 1,000+ cyber breach records.
+Cyber-attacks are causing huge financial losses around the world. The problem is to analyze past data breaches to understand which industries are at risk, which attacks are dangerous, and how much money is lost. This helps in making better security plans. The main goal of this project is to use Python and Pandas to clean, merge, and analyze the cyber breach data of 2024 and 2025. We want to find out the biggest attacks, top affected industries, and total financial loss.
