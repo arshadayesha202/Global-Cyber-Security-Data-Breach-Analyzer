@@ -1,0 +1,1001 @@
+Company_ID,Breach_ID,Attack_Type,Severity_Level,Records_Lost,Financial_Loss_USD,Breach_Date,Status,Company_Name,Industry,Country,Loss_Per_Record,Priority,Breach_Year,Breach_Month
+C0067,B0934,Insider Threat,Critical,4783152.0,49941027.0,2025-07-27,UNDER INVESTIGATION,Company_67,Education,Germany,10.44,High Priority,2025,July
+C0112,B0462,Phishing,Medium,7842185.0,49939966.0,2024-08-14,RESOLVED,Company_112,Technology,Japan,6.37,Normal,2024,August
+C0052,B0760,Malware,Low,8347055.0,49802048.0,2025-09-03,UNDER INVESTIGATION,Company_52,Education,Japan,5.97,Normal,2025,September
+C0147,B0584,Unknown,Low,7294828.0,49796892.0,2025-01-07,PENDING,Company_147,Technology,UK,6.83,Normal,2025,January
+C0034,B0899,DDoS,Medium,7045065.0,49781247.0,2025-08-08,PENDING,Company_34,Government,Australia,7.07,Normal,2025,August
+C0052,B0585,Malware,Critical,3889743.0,49657636.0,2025-10-28,PENDING,Company_52,Education,Japan,12.77,High Priority,2025,October
+C0147,B0442,Ransomware,High,6887713.0,49462860.0,2024-12-18,RESOLVED,Company_147,Technology,UK,7.18,Normal,2024,December
+C0064,B0931,DDoS,Critical,7333359.0,49455017.0,2025-04-08,RESOLVED,Company_64,Retail,Australia,6.74,High Priority,2025,April
+C0075,B0167,Malware,High,8210376.0,49432017.0,2024-04-10,UNDER INVESTIGATION,Company_75,Retail,Germany,6.02,Normal,2024,April
+C0004,B0141,SQL Injection,High,3944453.0,49354153.0,2024-01-15,PENDING,Company_4,Energy,France,12.51,Normal,2024,January
+C0001,B0623,Phishing,Critical,140719.0,49332605.0,2025-04-01,RESOLVED,Company_1,Government,Japan,350.58,High Priority,2025,April
+C0094,B0376,Insider Threat,Medium,5043976.0,49216548.0,2024-09-22,PENDING,Company_94,Automotive,USA,9.76,Normal,2024,September
+C0020,B0168,Malware,Medium,1823775.0,49084864.0,2024-11-23,UNDER INVESTIGATION,Company_20,Automotive,France,26.91,Normal,2024,November
+C0070,B0351,Malware,Critical,79102.0,49084399.0,2024-05-28,PENDING,Company_70,Energy,UK,620.52,High Priority,2024,May
+C0085,B0788,Phishing,High,3252639.0,48994933.0,2025-08-16,RESOLVED,Company_85,Education,USA,15.06,Normal,2025,August
+C0067,B0742,Insider Threat,Medium,2534088.0,48927771.0,2025-01-12,PENDING,Company_67,Education,Germany,19.31,Normal,2025,January
+C0104,B0842,SQL Injection,Low,2643593.0,48909993.0,2025-05-06,UNDER INVESTIGATION,Company_104,Healthcare,France,18.5,Normal,2025,May
+C0073,B0884,Insider Threat,Low,1493089.0,48906633.0,2025-12-07,RESOLVED,Company_73,Finance,USA,32.76,Normal,2025,December
+C0144,B0152,DDoS,High,6520713.0,48860336.0,2024-04-22,RESOLVED,Company_144,Energy,Japan,7.49,Normal,2024,April
+C0040,B0107,Phishing,Critical,1686918.0,48835502.0,2024-11-07,UNDER INVESTIGATION,Company_40,Retail,Japan,28.95,High Priority,2024,November
+C0106,B0482,Ransomware,Low,513164.0,48814590.0,2024-04-16,PENDING,Company_106,Retail,Canada,95.12,Normal,2024,April
+C0002,B0678,Ransomware,Critical,5719474.0,48800256.0,2025-12-26,PENDING,Company_2,Retail,India,8.53,High Priority,2025,December
+C0086,B0960,Insider Threat,High,179631.0,48650818.0,2025-10-23,UNDER INVESTIGATION,Company_86,Healthcare,Japan,270.84,Normal,2025,October
+C0021,B0021,Ransomware,Medium,9356437.0,48639837.0,2024-07-12,RESOLVED,Company_21,Technology,Australia,5.2,Normal,2024,July
+C0146,B0915,Phishing,Low,7132497.0,48622384.0,2025-11-21,RESOLVED,Company_146,Government,India,6.82,Normal,2025,November
+C0103,B0661,Unknown,Critical,4463736.0,48616895.0,2025-08-22,RESOLVED,Company_103,Education,Germany,10.89,High Priority,2025,August
+C0040,B0508,Ransomware,Critical,4832807.0,48562697.0,2025-07-21,RESOLVED,Company_40,Retail,Japan,10.05,High Priority,2025,July
+C0086,B0468,Phishing,High,9417511.0,48559768.0,2024-01-14,UNDER INVESTIGATION,Company_86,Healthcare,Japan,5.16,Normal,2024,January
+C0010,B0635,Insider Threat,Critical,1768639.0,48472414.0,2025-10-11,RESOLVED,Company_10,Retail,Germany,27.41,High Priority,2025,October
+C0124,B0529,Insider Threat,High,8554728.0,48319183.0,2025-05-23,UNDER INVESTIGATION,Company_124,Finance,India,5.65,Normal,2025,May
+C0049,B0743,Phishing,Medium,4037260.0,48314814.0,2025-04-24,PENDING,Company_49,Technology,Canada,11.97,Normal,2025,April
+C0023,B0173,Phishing,Medium,2636553.0,48219746.0,2024-03-13,UNDER INVESTIGATION,Company_23,Automotive,France,18.29,Normal,2024,March
+C0005,B0577,Malware,Low,2673215.0,48194493.0,2025-04-21,PENDING,Company_5,Education,Germany,18.03,Normal,2025,April
+C0030,B0972,Ransomware,Low,638853.0,48174301.0,2025-01-02,UNDER INVESTIGATION,Company_30,Finance,Japan,75.41,Normal,2025,January
+C0010,B0549,SQL Injection,Critical,8399273.0,48161232.0,2025-01-11,UNDER INVESTIGATION,Company_10,Retail,Germany,5.73,High Priority,2025,January
+C0056,B0163,SQL Injection,Medium,9948136.0,48099361.0,2024-05-25,RESOLVED,Company_56,Energy,France,4.84,Normal,2024,May
+C0032,B0320,SQL Injection,Low,8989570.0,48098322.0,2024-02-04,RESOLVED,Company_32,Healthcare,India,5.35,Normal,2024,February
+C0150,B0118,Unknown,Low,2555611.0,48092786.0,2024-01-21,RESOLVED,Company_150,Technology,France,18.82,Normal,2024,January
+C0093,B0369,Ransomware,Critical,5165714.0,48055299.0,2024-01-01,RESOLVED,Company_93,Healthcare,India,9.3,High Priority,2024,January
+C0038,B0885,Insider Threat,High,6332044.0,48055133.0,2025-03-12,PENDING,Company_38,Government,Australia,7.59,Normal,2025,March
+C0092,B0534,Unknown,Medium,4240567.0,47952003.0,2025-07-26,PENDING,Company_92,Technology,Germany,11.31,Normal,2025,July
+C0005,B0086,Malware,Critical,744458.0,47875734.0,2024-04-17,PENDING,Company_5,Education,Germany,64.31,High Priority,2024,April
+C0119,B0653,Insider Threat,Medium,7393536.0,47790126.0,2025-02-10,UNDER INVESTIGATION,Company_119,Automotive,Canada,6.46,Normal,2025,February
+C0012,B0435,Malware,Low,1581215.0,47747009.0,2024-07-05,UNDER INVESTIGATION,Company_12,Energy,UK,30.2,Normal,2024,July
+C0024,B0186,DDoS,Low,1503323.0,47712928.0,2024-10-07,PENDING,Company_24,Technology,Japan,31.74,Normal,2024,October
+C0073,B0990,Malware,High,4445863.0,47634201.0,2025-03-05,PENDING,Company_73,Finance,USA,10.71,Normal,2025,March
+C0100,B0169,DDoS,Low,2478689.0,47611185.0,2024-02-12,RESOLVED,Company_100,Finance,Canada,19.21,Normal,2024,February
+C0087,B0805,Malware,Critical,2351192.0,47557109.0,2025-02-14,RESOLVED,Company_87,Energy,USA,20.23,High Priority,2025,February
+C0127,B0491,Malware,High,5479202.0,47541556.0,2024-09-10,RESOLVED,Company_127,Automotive,Canada,8.68,Normal,2024,September
+C0085,B0604,Malware,Low,4622846.0,47486472.0,2025-12-27,UNDER INVESTIGATION,Company_85,Education,USA,10.27,Normal,2025,December
+C0005,B0796,Malware,Critical,2971647.0,47415653.0,2025-12-20,PENDING,Company_5,Education,Germany,15.96,High Priority,2025,December
+C0134,B0409,Ransomware,High,979701.0,47350897.0,2024-08-12,PENDING,Company_134,Energy,France,48.33,Normal,2024,August
+C0097,B0756,Insider Threat,High,3490313.0,47341802.0,2025-08-01,PENDING,Company_97,Finance,Japan,13.56,Normal,2025,August
+C0003,B0613,SQL Injection,High,8800885.0,47323456.0,2025-07-20,PENDING,Company_3,Energy,UK,5.38,Normal,2025,July
+C0139,B0667,Ransomware,Low,1768042.0,47299460.0,2025-08-23,RESOLVED,Company_139,Government,France,26.75,Normal,2025,August
+C0052,B0199,Ransomware,High,9546482.0,47299228.0,2024-09-21,RESOLVED,Company_52,Education,Japan,4.95,Normal,2024,September
+C0005,B0226,Insider Threat,Low,7537788.0,47167125.0,2024-10-24,PENDING,Company_5,Education,Germany,6.26,Normal,2024,October
+C0125,B0877,Insider Threat,Low,8682467.0,47079714.0,2025-12-01,PENDING,Company_125,Energy,Japan,5.42,Normal,2025,December
+C0004,B0898,DDoS,Critical,9575699.0,47076895.0,2025-04-26,RESOLVED,Company_4,Energy,France,4.92,High Priority,2025,April
+C0033,B0501,Insider Threat,Critical,9699560.0,46853984.5,2025-07-28,RESOLVED,Company_33,Government,Japan,4.83,High Priority,2025,July
+C0146,B0402,Phishing,Critical,2076237.0,46739614.0,2024-11-23,UNDER INVESTIGATION,Company_146,Government,India,22.51,High Priority,2024,November
+C0064,B0353,DDoS,Critical,8476232.0,46683845.0,2024-09-25,PENDING,Company_64,Retail,Australia,5.51,High Priority,2024,September
+C0137,B0740,Insider Threat,Medium,7443167.0,46682812.0,2025-04-03,RESOLVED,Company_137,Government,Germany,6.27,Normal,2025,April
+C0091,B0304,Phishing,Critical,3194182.0,46622822.0,2024-03-13,RESOLVED,Company_91,Education,India,14.6,High Priority,2024,March
+C0098,B0004,Phishing,High,3579036.0,46609734.0,2024-12-13,RESOLVED,Company_98,Energy,France,13.02,Normal,2024,December
+C0135,B0542,Ransomware,Low,5861973.0,46494074.0,2025-10-03,PENDING,Company_135,Energy,USA,7.93,Normal,2025,October
+C0003,B0097,Ransomware,Critical,1430032.0,46287761.0,2024-05-03,RESOLVED,Company_3,Energy,UK,32.37,High Priority,2024,May
+C0096,B0755,Unknown,Critical,3280357.0,46220666.0,2025-10-28,UNDER INVESTIGATION,Company_96,Education,Germany,14.09,High Priority,2025,October
+C0072,B0092,Phishing,Critical,5894876.0,46206912.0,2024-12-04,UNDER INVESTIGATION,Company_72,Finance,France,7.84,High Priority,2024,December
+C0021,B0572,DDoS,High,660072.0,46146265.0,2025-09-09,UNDER INVESTIGATION,Company_21,Technology,Australia,69.91,Normal,2025,September
+C0114,B0126,Insider Threat,High,1657497.0,46109372.0,2024-12-26,UNDER INVESTIGATION,Company_114,Automotive,India,27.82,Normal,2024,December
+C0033,B0985,Ransomware,Critical,5024981.0,46106295.0,2025-05-20,UNDER INVESTIGATION,Company_33,Government,Japan,9.18,High Priority,2025,May
+C0118,B0161,Malware,Critical,1898791.0,45951492.0,2024-05-19,RESOLVED,Company_118,Retail,India,24.2,High Priority,2024,May
+C0027,B0987,Insider Threat,Critical,4369508.0,45947510.0,2025-08-13,PENDING,Company_27,Healthcare,Germany,10.52,High Priority,2025,August
+C0086,B0364,Phishing,Critical,8735717.0,45894008.0,2024-12-16,UNDER INVESTIGATION,Company_86,Healthcare,Japan,5.25,High Priority,2024,December
+C0023,B0285,SQL Injection,Medium,6664525.0,45848076.0,2024-10-08,RESOLVED,Company_23,Automotive,France,6.88,Normal,2024,October
+C0058,B0868,Ransomware,Low,6538439.0,45781414.0,2025-11-13,PENDING,Company_58,Technology,USA,7.0,Normal,2025,November
+C0092,B0944,Insider Threat,Critical,6162464.0,45780683.0,2025-11-13,RESOLVED,Company_92,Technology,Germany,7.43,High Priority,2025,November
+C0022,B0451,SQL Injection,Low,5838215.0,45751950.0,2024-04-06,PENDING,Company_22,Education,Germany,7.84,Normal,2024,April
+C0058,B0195,Phishing,Medium,6479767.0,45724968.0,2024-06-08,PENDING,Company_58,Technology,USA,7.06,Normal,2024,June
+C0021,B0085,Ransomware,Medium,4997748.0,45635620.0,2024-01-24,UNDER INVESTIGATION,Company_21,Technology,Australia,9.13,Normal,2024,January
+C0045,B0283,DDoS,Low,282329.0,45589668.0,2024-12-20,UNDER INVESTIGATION,Company_45,Retail,India,161.48,Normal,2024,December
+C0130,B0720,Insider Threat,High,9686247.0,45445484.0,2025-02-03,UNDER INVESTIGATION,Company_130,Education,USA,4.69,Normal,2025,February
+C0052,B0524,SQL Injection,Low,9297834.0,45403121.0,2025-07-25,PENDING,Company_52,Education,Japan,4.88,Normal,2025,July
+C0007,B0802,Phishing,Low,8128549.0,45397034.0,2025-01-24,UNDER INVESTIGATION,Company_7,Energy,Canada,5.58,Normal,2025,January
+C0013,B0494,Ransomware,High,7768355.0,45393156.0,2024-03-21,PENDING,Company_13,Energy,UK,5.84,Normal,2024,March
+C0089,B0509,Ransomware,Medium,656052.0,45361823.0,2025-08-19,RESOLVED,Company_89,Energy,Australia,69.14,Normal,2025,August
+C0106,B0309,Insider Threat,High,875606.0,45284603.0,2024-01-17,RESOLVED,Company_106,Retail,Canada,51.72,Normal,2024,January
+C0052,B0138,Insider Threat,Low,6230142.0,45255240.0,2024-12-26,RESOLVED,Company_52,Education,Japan,7.26,Normal,2024,December
+C0147,B0992,Malware,Low,1781964.0,45217336.0,2025-01-27,RESOLVED,Company_147,Technology,UK,25.37,Normal,2025,January
+C0092,B0090,Unknown,High,2885396.0,45212473.0,2024-09-22,PENDING,Company_92,Technology,Germany,15.67,Normal,2024,September
+C0095,B0619,Malware,Low,8782656.0,45170744.0,2025-03-28,RESOLVED,Company_95,Automotive,Germany,5.14,Normal,2025,March
+C0035,B0105,DDoS,High,6325482.0,45147595.0,2024-12-04,UNDER INVESTIGATION,Company_35,Automotive,France,7.14,Normal,2024,December
+C0107,B0155,DDoS,High,6244449.0,45034770.0,2024-04-02,PENDING,Company_107,Technology,Germany,7.21,Normal,2024,April
+C0057,B0093,Phishing,Medium,6141772.0,45002791.0,2024-05-17,RESOLVED,Company_57,Technology,USA,7.33,Normal,2024,May
+C0062,B0495,Malware,Low,2314753.0,44948646.0,2024-04-20,UNDER INVESTIGATION,Company_62,Automotive,Japan,19.42,Normal,2024,April
+C0145,B0359,Insider Threat,Low,4155128.0,44924657.0,2024-02-14,UNDER INVESTIGATION,Company_145,Technology,Germany,10.81,Normal,2024,February
+C0075,B0342,Malware,Low,8419506.0,44919974.0,2024-12-16,UNDER INVESTIGATION,Company_75,Retail,Germany,5.34,Normal,2024,December
+C0132,B0688,Insider Threat,Low,8236053.0,44829445.0,2025-03-02,UNDER INVESTIGATION,Company_132,Education,USA,5.44,Normal,2025,March
+C0046,B0102,SQL Injection,Low,1845080.0,44820453.0,2024-09-10,UNDER INVESTIGATION,Company_46,Technology,Canada,24.29,Normal,2024,September
+C0102,B0593,Insider Threat,Low,5145486.0,44771358.0,2025-07-15,RESOLVED,Company_102,Technology,Australia,8.7,Normal,2025,July
+C0138,B0637,Phishing,Medium,3597056.0,44755969.0,2025-08-15,RESOLVED,Company_138,Retail,USA,12.44,Normal,2025,August
+C0041,B0175,Phishing,Medium,7446338.0,44717264.0,2024-01-06,PENDING,Company_41,Energy,Canada,6.01,Normal,2024,January
+C0051,B0998,DDoS,Medium,9176525.0,44662188.0,2025-09-10,UNDER INVESTIGATION,Company_51,Education,India,4.87,Normal,2025,September
+C0124,B0709,Insider Threat,Medium,5805899.0,44403570.0,2025-08-07,UNDER INVESTIGATION,Company_124,Finance,India,7.65,Normal,2025,August
+C0075,B0711,SQL Injection,Medium,6821010.0,44291929.0,2025-08-24,PENDING,Company_75,Retail,Germany,6.49,Normal,2025,August
+C0102,B0441,DDoS,High,5467365.0,44275092.0,2024-12-19,RESOLVED,Company_102,Technology,Australia,8.1,Normal,2024,December
+C0117,B0066,Phishing,Critical,5453019.0,44236610.0,2024-12-18,RESOLVED,Company_117,Energy,France,8.11,High Priority,2024,December
+C0004,B0292,Insider Threat,Medium,6866512.0,44078677.0,2024-01-17,UNDER INVESTIGATION,Company_4,Energy,France,6.42,Normal,2024,January
+C0080,B0659,Phishing,Medium,235830.0,44031124.0,2025-12-22,PENDING,Company_80,Education,France,186.71,Normal,2025,December
+C0124,B0716,Unknown,High,4827959.0,44020082.0,2025-03-09,PENDING,Company_124,Finance,India,9.12,Normal,2025,March
+C0091,B0979,Ransomware,High,5897128.0,43766942.0,2025-08-01,PENDING,Company_91,Education,India,7.42,Normal,2025,August
+C0145,B0726,SQL Injection,High,70285.0,43761794.0,2025-03-17,UNDER INVESTIGATION,Company_145,Technology,Germany,622.63,Normal,2025,March
+C0120,B0445,Malware,Low,1004660.0,43760897.0,2024-12-20,UNDER INVESTIGATION,Company_120,Automotive,USA,43.56,Normal,2024,December
+C0064,B0449,Insider Threat,Critical,2491260.0,43735113.0,2024-01-11,RESOLVED,Company_64,Retail,Australia,17.56,High Priority,2024,January
+C0103,B0255,Ransomware,Low,4068506.0,43699630.0,2024-09-27,RESOLVED,Company_103,Education,Germany,10.74,Normal,2024,September
+C0111,B0104,Phishing,High,9834073.0,43612232.0,2024-11-24,PENDING,Company_111,Education,UK,4.43,Normal,2024,November
+C0133,B0475,Malware,High,7331542.0,43545054.0,2024-06-13,RESOLVED,Company_133,Government,Germany,5.94,Normal,2024,June
+C0039,B0177,Insider Threat,Critical,5525810.0,43529362.0,2024-05-21,UNDER INVESTIGATION,Company_39,Energy,Canada,7.88,High Priority,2024,May
+C0062,B0121,Phishing,High,298222.0,43496471.0,2024-07-14,RESOLVED,Company_62,Automotive,Japan,145.85,Normal,2024,July
+C0126,B0803,DDoS,Critical,1509408.0,43493886.0,2025-11-22,PENDING,Company_126,Automotive,Australia,28.82,High Priority,2025,November
+C0041,B0233,Ransomware,Low,767760.0,43397387.0,2024-02-22,UNDER INVESTIGATION,Company_41,Energy,Canada,56.52,Normal,2024,February
+C0053,B0313,Unknown,Low,2595592.0,43375659.0,2024-03-12,UNDER INVESTIGATION,Company_53,Automotive,Canada,16.71,Normal,2024,March
+C0035,B0005,Malware,Low,7348595.0,43346581.0,2024-07-20,UNDER INVESTIGATION,Company_35,Automotive,France,5.9,Normal,2024,July
+C0047,B0197,Malware,High,8105482.0,43272308.0,2024-02-03,UNDER INVESTIGATION,Company_47,Energy,India,5.34,Normal,2024,February
+C0065,B0381,Ransomware,Medium,6380960.0,43194237.0,2024-07-14,UNDER INVESTIGATION,Company_65,Energy,France,6.77,Normal,2024,July
+C0070,B0041,Phishing,High,7298841.0,43137603.0,2024-04-28,UNDER INVESTIGATION,Company_70,Energy,UK,5.91,Normal,2024,April
+C0096,B0243,Phishing,Low,6894881.0,43024540.0,2024-05-02,RESOLVED,Company_96,Education,Germany,6.24,Normal,2024,May
+C0041,B0241,DDoS,Critical,5551108.0,42943408.0,2024-08-09,UNDER INVESTIGATION,Company_41,Energy,Canada,7.74,High Priority,2024,August
+C0120,B0959,Phishing,Low,5886200.0,42915984.0,2025-06-17,PENDING,Company_120,Automotive,USA,7.29,Normal,2025,June
+C0057,B0824,Malware,Low,4860740.0,42893509.0,2025-02-11,UNDER INVESTIGATION,Company_57,Technology,USA,8.82,Normal,2025,February
+C0095,B0014,DDoS,High,6048686.0,42883056.0,2024-10-11,UNDER INVESTIGATION,Company_95,Automotive,Germany,7.09,Normal,2024,October
+C0116,B0497,Phishing,Medium,5168333.0,42829311.0,2024-07-20,UNDER INVESTIGATION,Company_116,Energy,Japan,8.29,Normal,2024,July
+C0003,B0018,DDoS,Critical,8848052.0,42758053.67,2024-07-20,UNDER INVESTIGATION,Company_3,Energy,UK,4.83,High Priority,2024,July
+C0112,B0834,Malware,Medium,6825683.0,42728491.0,2025-10-24,UNDER INVESTIGATION,Company_112,Technology,Japan,6.26,Normal,2025,October
+C0051,B0401,SQL Injection,Medium,7099132.0,42713228.0,2024-01-08,PENDING,Company_51,Education,India,6.02,Normal,2024,January
+C0075,B0408,Phishing,Low,4252936.0,42686796.33,2024-07-21,RESOLVED,Company_75,Retail,Germany,10.04,Normal,2024,July
+C0071,B0953,SQL Injection,Low,1387768.0,42683641.0,2025-06-08,RESOLVED,Company_71,Technology,India,30.76,Normal,2025,June
+C0073,B0479,Insider Threat,Low,6646013.0,42615539.0,2024-07-22,RESOLVED,Company_73,Finance,USA,6.41,Normal,2024,July
+C0061,B0903,SQL Injection,High,5108493.0,42613328.0,2025-04-08,UNDER INVESTIGATION,Company_61,Retail,UK,8.34,Normal,2025,April
+C0147,B0955,Phishing,Medium,9850475.0,42584892.0,2025-03-28,UNDER INVESTIGATION,Company_147,Technology,UK,4.32,Normal,2025,March
+C0099,B0488,DDoS,Low,4161703.0,42482227.0,2024-01-19,UNDER INVESTIGATION,Company_99,Finance,Australia,10.21,Normal,2024,January
+C0085,B0425,Phishing,Medium,6211383.0,42450060.0,2024-08-03,UNDER INVESTIGATION,Company_85,Education,USA,6.83,Normal,2024,August
+C0112,B0962,DDoS,Critical,4954119.0,42383281.0,2025-07-10,RESOLVED,Company_112,Technology,Japan,8.56,High Priority,2025,July
+C0022,B0731,Malware,Low,240134.0,42349971.0,2025-11-09,RESOLVED,Company_22,Education,Germany,176.36,Normal,2025,November
+C0035,B0599,Ransomware,High,4717510.0,42272060.0,2025-02-05,UNDER INVESTIGATION,Company_35,Automotive,France,8.96,Normal,2025,February
+C0077,B0778,Unknown,Medium,2210805.0,42270204.0,2025-02-24,PENDING,Company_77,Education,India,19.12,Normal,2025,February
+C0005,B0917,Phishing,Medium,4298175.0,42265817.0,2025-11-03,PENDING,Company_5,Education,Germany,9.83,Normal,2025,November
+C0053,B0939,Insider Threat,High,7096134.0,42163164.0,2025-08-08,RESOLVED,Company_53,Automotive,Canada,5.94,Normal,2025,August
+C0059,B0433,SQL Injection,Critical,3708642.0,42142830.0,2024-08-15,UNDER INVESTIGATION,Company_59,Energy,USA,11.36,High Priority,2024,August
+C0105,B0684,Ransomware,Critical,5005057.0,42101498.0,2025-10-14,PENDING,Company_105,Retail,Germany,8.41,High Priority,2025,October
+C0130,B0082,SQL Injection,Critical,930496.0,42057668.0,2024-01-09,UNDER INVESTIGATION,Company_130,Education,USA,45.2,High Priority,2024,January
+C0018,B0981,DDoS,High,2746333.0,42050770.0,2025-01-26,RESOLVED,Company_18,Government,Australia,15.31,Normal,2025,January
+C0071,B0032,Phishing,Medium,7576303.0,42040432.0,2024-11-23,PENDING,Company_71,Technology,India,5.55,Normal,2024,November
+C0132,B0113,Insider Threat,Critical,5071238.0,41977625.0,2024-11-23,PENDING,Company_132,Education,USA,8.28,High Priority,2024,November
+C0125,B0363,Insider Threat,Critical,4085219.0,41963301.0,2024-01-16,PENDING,Company_125,Energy,Japan,10.27,High Priority,2024,January
+C0097,B0989,Ransomware,High,4150088.0,41926563.0,2025-01-12,RESOLVED,Company_97,Finance,Japan,10.1,Normal,2025,January
+C0087,B0666,DDoS,Low,1608213.0,41913696.0,2025-09-25,RESOLVED,Company_87,Energy,USA,26.06,Normal,2025,September
+C0146,B0453,Phishing,Critical,6692786.0,41655087.0,2024-08-07,RESOLVED,Company_146,Government,India,6.22,High Priority,2024,August
+C0075,B0416,SQL Injection,Medium,4176914.0,41580864.0,2024-11-01,UNDER INVESTIGATION,Company_75,Retail,Germany,9.95,Normal,2024,November
+C0005,B0055,Insider Threat,Critical,653403.0,41557463.0,2024-05-10,UNDER INVESTIGATION,Company_5,Education,Germany,63.6,High Priority,2024,May
+C0092,B0611,Insider Threat,Medium,4491065.0,41332504.0,2025-09-22,UNDER INVESTIGATION,Company_92,Technology,Germany,9.2,Normal,2025,September
+C0142,B0276,SQL Injection,Medium,4209292.0,41245896.0,2024-04-09,UNDER INVESTIGATION,Company_142,Energy,France,9.8,Normal,2024,April
+C0084,B0208,SQL Injection,High,8116790.0,41216026.0,2024-10-27,RESOLVED,Company_84,Retail,Germany,5.08,Normal,2024,October
+C0067,B0260,SQL Injection,Medium,7765734.0,41192043.0,2024-11-22,PENDING,Company_67,Education,Germany,5.3,Normal,2024,November
+C0104,B0106,Unknown,High,5788285.0,41136054.0,2024-05-26,RESOLVED,Company_104,Healthcare,France,7.11,Normal,2024,May
+C0133,B0589,Malware,Medium,7718370.0,41039275.0,2025-03-12,UNDER INVESTIGATION,Company_133,Government,Germany,5.32,Normal,2025,March
+C0064,B0164,Phishing,Medium,2712114.0,41001353.0,2024-10-11,UNDER INVESTIGATION,Company_64,Retail,Australia,15.12,Normal,2024,October
+C0042,B0398,SQL Injection,High,9434237.0,40955501.0,2024-08-10,UNDER INVESTIGATION,Company_42,Technology,Germany,4.34,Normal,2024,August
+C0084,B0327,SQL Injection,Critical,4084209.0,40947384.0,2024-07-06,RESOLVED,Company_84,Retail,Germany,10.03,High Priority,2024,July
+C0145,B0792,Phishing,Low,362866.0,40901115.0,2025-07-11,PENDING,Company_145,Technology,Germany,112.72,Normal,2025,July
+C0016,B0892,Unknown,Critical,7826869.0,40877236.0,2025-02-12,UNDER INVESTIGATION,Company_16,Automotive,India,5.22,High Priority,2025,February
+C0101,B0109,Ransomware,Critical,9900775.0,40864279.0,2024-05-18,RESOLVED,Company_101,Finance,Japan,4.13,High Priority,2024,May
+C0003,B0849,DDoS,Medium,6556694.0,40860462.0,2025-05-13,UNDER INVESTIGATION,Company_3,Energy,UK,6.23,Normal,2025,May
+C0079,B0009,SQL Injection,Critical,6282482.0,40836360.0,2024-09-02,PENDING,Company_79,Government,USA,6.5,High Priority,2024,September
+C0147,B0734,DDoS,Medium,2303696.0,40784347.0,2025-10-19,PENDING,Company_147,Technology,UK,17.7,Normal,2025,October
+C0005,B0840,Ransomware,Low,2729633.0,40726589.0,2025-11-09,PENDING,Company_5,Education,Germany,14.92,Normal,2025,November
+C0063,B0036,Ransomware,Critical,605538.0,40675763.0,2024-02-19,PENDING,Company_63,Healthcare,UK,67.17,High Priority,2024,February
+C0053,B0176,Phishing,Medium,6509220.0,40645517.0,2024-04-08,RESOLVED,Company_53,Automotive,Canada,6.24,Normal,2024,April
+C0003,B0218,Insider Threat,High,8756468.0,40445969.0,2024-08-17,RESOLVED,Company_3,Energy,UK,4.62,Normal,2024,August
+C0133,B0911,DDoS,Critical,8036615.0,40181458.0,2025-04-24,UNDER INVESTIGATION,Company_133,Government,Germany,5.0,High Priority,2025,April
+C0106,B0019,Insider Threat,High,2615351.0,40110713.0,2024-01-10,RESOLVED,Company_106,Retail,Canada,15.34,Normal,2024,January
+C0039,B0515,Phishing,Medium,5904581.0,39964778.0,2025-06-10,PENDING,Company_39,Energy,Canada,6.77,Normal,2025,June
+C0089,B0299,SQL Injection,Medium,9098219.0,39932761.0,2024-04-25,UNDER INVESTIGATION,Company_89,Energy,Australia,4.39,Normal,2024,April
+C0109,B0548,Ransomware,Critical,7842315.0,39911921.0,2025-07-17,PENDING,Company_109,Education,Canada,5.09,High Priority,2025,July
+C0016,B0814,Insider Threat,High,6085737.0,39906130.0,2025-11-14,RESOLVED,Company_16,Automotive,India,6.56,Normal,2025,November
+C0093,B0162,Ransomware,Low,7593258.0,39792385.0,2024-10-18,PENDING,Company_93,Healthcare,India,5.24,Normal,2024,October
+C0095,B0380,Ransomware,Medium,5844364.0,39668408.0,2024-12-28,RESOLVED,Company_95,Automotive,Germany,6.79,Normal,2024,December
+C0119,B0052,DDoS,High,7839121.0,39608084.0,2024-11-13,PENDING,Company_119,Automotive,Canada,5.05,Normal,2024,November
+C0046,B0201,Insider Threat,High,6888684.0,39582847.0,2024-08-25,UNDER INVESTIGATION,Company_46,Technology,Canada,5.75,Normal,2024,August
+C0073,B0873,Ransomware,High,9031456.0,39557220.0,2025-06-10,UNDER INVESTIGATION,Company_73,Finance,USA,4.38,Normal,2025,June
+C0069,B0124,DDoS,High,376690.0,39430051.0,2024-04-18,UNDER INVESTIGATION,Company_69,Education,Australia,104.68,Normal,2024,April
+C0037,B0683,Ransomware,Low,4345394.0,39367646.0,2025-02-20,PENDING,Company_37,Healthcare,Germany,9.06,Normal,2025,February
+C0045,B0326,Phishing,Low,7998765.0,39339229.0,2024-09-13,RESOLVED,Company_45,Retail,India,4.92,Normal,2024,September
+C0128,B0011,SQL Injection,Critical,2238481.0,39092569.5,2024-07-11,RESOLVED,Company_128,Energy,India,17.46,High Priority,2024,July
+C0109,B0867,SQL Injection,Low,6373149.0,39001988.0,2025-05-13,UNDER INVESTIGATION,Company_109,Education,Canada,6.12,Normal,2025,May
+C0126,B0272,DDoS,Critical,7402820.0,38998290.0,2024-04-15,UNDER INVESTIGATION,Company_126,Automotive,Australia,5.27,High Priority,2024,April
+C0035,B0467,Ransomware,Critical,7928593.0,38970385.0,2024-10-18,UNDER INVESTIGATION,Company_35,Automotive,France,4.92,High Priority,2024,October
+C0041,B0553,Phishing,Low,2695594.0,38962507.0,2025-12-15,UNDER INVESTIGATION,Company_41,Energy,Canada,14.45,Normal,2025,December
+C0018,B0225,Phishing,High,8721732.0,38925012.0,2024-08-03,RESOLVED,Company_18,Government,Australia,4.46,Normal,2024,August
+C0032,B0762,SQL Injection,Medium,6828614.0,38866624.0,2025-09-05,PENDING,Company_32,Healthcare,India,5.69,Normal,2025,September
+C0090,B0961,DDoS,Critical,2268189.0,38807012.0,2025-12-08,RESOLVED,Company_90,Finance,Japan,17.11,High Priority,2025,December
+C0133,B0551,Insider Threat,Medium,2775943.0,38797639.0,2025-03-18,RESOLVED,Company_133,Government,Germany,13.98,Normal,2025,March
+C0031,B0471,Ransomware,High,5069263.0,38788812.0,2024-07-25,PENDING,Company_31,Education,Japan,7.65,Normal,2024,July
+C0060,B0026,Malware,Medium,5458430.0,38783160.0,2024-06-21,RESOLVED,Company_60,Retail,France,7.11,Normal,2024,June
+C0079,B0133,Insider Threat,Critical,3991828.0,38735586.0,2024-10-18,PENDING,Company_79,Government,USA,9.7,High Priority,2024,October
+C0002,B0645,SQL Injection,Medium,8275938.0,38728799.0,2025-04-18,UNDER INVESTIGATION,Company_2,Retail,India,4.68,Normal,2025,April
+C0114,B0216,SQL Injection,High,1123739.0,38714669.0,2024-04-27,RESOLVED,Company_114,Automotive,India,34.45,Normal,2024,April
+C0137,B0393,SQL Injection,Critical,8521020.0,38698551.0,2024-04-20,PENDING,Company_137,Government,Germany,4.54,High Priority,2024,April
+C0059,B0775,DDoS,Medium,145845.0,38623385.0,2025-09-07,RESOLVED,Company_59,Energy,USA,264.82,Normal,2025,September
+C0111,B0372,Ransomware,Low,2007901.0,38612675.0,2024-06-18,RESOLVED,Company_111,Education,UK,19.23,Normal,2024,June
+C0037,B0530,DDoS,Medium,7937328.0,38601762.0,2025-04-08,UNDER INVESTIGATION,Company_37,Healthcare,Germany,4.86,Normal,2025,April
+C0120,B0763,Phishing,Medium,4560824.0,38594502.0,2025-07-03,PENDING,Company_120,Automotive,USA,8.46,Normal,2025,July
+C0026,B0135,SQL Injection,Low,1827755.0,38593022.0,2024-12-26,RESOLVED,Company_26,Finance,Japan,21.11,Normal,2024,December
+C0025,B0978,Malware,Medium,9456223.0,38557147.0,2025-09-08,UNDER INVESTIGATION,Company_25,Government,UK,4.08,Normal,2025,September
+C0005,B0334,Ransomware,High,7871590.0,38547776.0,2024-03-14,UNDER INVESTIGATION,Company_5,Education,Germany,4.9,Normal,2024,March
+C0095,B0294,Insider Threat,Medium,6088199.0,38449417.0,2024-12-05,UNDER INVESTIGATION,Company_95,Automotive,Germany,6.32,Normal,2024,December
+C0042,B0795,Insider Threat,Medium,6972656.0,38447643.0,2025-03-02,PENDING,Company_42,Technology,Germany,5.51,Normal,2025,March
+C0145,B0024,Ransomware,Critical,2416229.0,38401536.0,2024-06-17,PENDING,Company_145,Technology,Germany,15.89,High Priority,2024,June
+C0010,B0882,SQL Injection,Critical,1176345.0,38388825.0,2025-04-05,PENDING,Company_10,Retail,Germany,32.63,High Priority,2025,April
+C0103,B0222,SQL Injection,High,6676482.0,38355098.0,2024-06-13,UNDER INVESTIGATION,Company_103,Education,Germany,5.74,Normal,2024,June
+C0070,B0432,Insider Threat,Medium,1654802.0,38340693.0,2024-01-07,RESOLVED,Company_70,Energy,UK,23.17,Normal,2024,January
+C0050,B0039,Malware,Critical,3470012.0,38336063.5,2024-02-22,RESOLVED,Company_50,Education,Australia,11.05,High Priority,2024,February
+C0129,B0053,SQL Injection,Critical,9426737.0,38335163.0,2024-12-19,RESOLVED,Company_129,Government,Canada,4.07,High Priority,2024,December
+C0142,B0986,Phishing,Critical,6940905.0,38334258.0,2025-07-06,RESOLVED,Company_142,Energy,France,5.52,High Priority,2025,July
+C0091,B0194,Phishing,Critical,189285.0,38329124.0,2024-06-28,RESOLVED,Company_91,Education,India,202.49,High Priority,2024,June
+C0101,B0492,SQL Injection,Medium,3179246.0,38310581.0,2024-11-11,RESOLVED,Company_101,Finance,Japan,12.05,Normal,2024,November
+C0133,B0689,Insider Threat,Low,3152746.0,38302280.0,2025-11-17,UNDER INVESTIGATION,Company_133,Government,Germany,12.15,Normal,2025,November
+C0058,B0279,Unknown,Low,8241218.0,38264072.0,2024-12-18,RESOLVED,Company_58,Technology,USA,4.64,Normal,2024,December
+C0040,B0440,DDoS,High,9117487.0,38208827.0,2024-03-10,UNDER INVESTIGATION,Company_40,Retail,Japan,4.19,Normal,2024,March
+C0069,B0270,Insider Threat,Medium,5948601.0,38123859.5,2024-05-03,PENDING,Company_69,Education,Australia,6.41,Normal,2024,May
+C0090,B0046,Unknown,Medium,5019866.0,38022300.0,2024-05-12,PENDING,Company_90,Finance,Japan,7.57,Normal,2024,May
+C0099,B0150,Unknown,Critical,2183042.0,38008130.0,2024-08-15,UNDER INVESTIGATION,Company_99,Finance,Australia,17.41,High Priority,2024,August
+C0035,B0444,Phishing,Critical,7482673.0,37989583.0,2024-01-12,PENDING,Company_35,Automotive,France,5.08,High Priority,2024,January
+C0044,B0982,Insider Threat,Critical,3265736.0,37978883.0,2025-07-12,PENDING,Company_44,Retail,Canada,11.63,High Priority,2025,July
+C0150,B0403,Ransomware,Low,9925382.0,37901399.0,2024-04-07,UNDER INVESTIGATION,Company_150,Technology,France,3.82,Normal,2024,April
+C0064,B0269,Insider Threat,Critical,8432007.0,37858313.0,2024-05-09,PENDING,Company_64,Retail,Australia,4.49,High Priority,2024,May
+C0027,B0724,DDoS,Medium,2297649.0,37795623.0,2025-05-08,PENDING,Company_27,Healthcare,Germany,16.45,Normal,2025,May
+C0046,B0067,Ransomware,Critical,5800680.0,37753212.0,2024-01-07,RESOLVED,Company_46,Technology,Canada,6.51,High Priority,2024,January
+C0067,B0770,Malware,Critical,884458.0,37747483.0,2025-08-28,RESOLVED,Company_67,Education,Germany,42.68,High Priority,2025,August
+C0037,B0463,Ransomware,Critical,339493.0,37734627.0,2024-03-27,RESOLVED,Company_37,Healthcare,Germany,111.15,High Priority,2024,March
+C0148,B0738,Insider Threat,Critical,5766088.0,37721520.0,2025-01-12,PENDING,Company_148,Energy,Canada,6.54,High Priority,2025,January
+C0105,B0608,Malware,High,7869520.0,37720918.0,2025-11-13,UNDER INVESTIGATION,Company_105,Retail,Germany,4.79,Normal,2025,November
+C0132,B0385,Ransomware,Low,7031941.0,37632127.0,2024-07-19,RESOLVED,Company_132,Education,USA,5.35,Normal,2024,July
+C0147,B0712,SQL Injection,Low,9439526.0,37537714.0,2025-10-24,PENDING,Company_147,Technology,UK,3.98,Normal,2025,October
+C0010,B0072,Unknown,Low,2074361.0,37496577.0,2024-04-28,UNDER INVESTIGATION,Company_10,Retail,Germany,18.08,Normal,2024,April
+C0003,B0660,Phishing,Medium,5031207.0,37332031.0,2025-11-28,UNDER INVESTIGATION,Company_3,Energy,UK,7.42,Normal,2025,November
+C0127,B0286,Phishing,Low,3546978.0,37329237.5,2024-09-24,PENDING,Company_127,Automotive,Canada,10.52,Normal,2024,September
+C0094,B0108,DDoS,Low,1659701.0,37317604.0,2024-11-15,RESOLVED,Company_94,Automotive,USA,22.48,Normal,2024,November
+C0129,B0817,Ransomware,High,7040488.0,37252977.0,2025-03-27,RESOLVED,Company_129,Government,Canada,5.29,Normal,2025,March
+C0113,B0170,Insider Threat,High,7600645.0,37037474.0,2024-08-25,PENDING,Company_113,Automotive,Australia,4.87,Normal,2024,August
+C0021,B0591,SQL Injection,Critical,7990967.0,37017912.0,2025-12-07,UNDER INVESTIGATION,Company_21,Technology,Australia,4.63,High Priority,2025,December
+C0093,B0567,Malware,Medium,4381790.0,36993396.0,2025-03-21,PENDING,Company_93,Healthcare,India,8.44,Normal,2025,March
+C0011,B0303,Malware,High,1880324.0,36988495.0,2024-05-05,UNDER INVESTIGATION,Company_11,Retail,Australia,19.67,Normal,2024,May
+C0082,B0047,Malware,Critical,9278450.0,36935927.0,2024-11-21,PENDING,Company_82,Government,France,3.98,High Priority,2024,November
+C0107,B0418,Phishing,High,3902706.0,36868838.0,2024-05-09,RESOLVED,Company_107,Technology,Germany,9.45,Normal,2024,May
+C0138,B0131,Ransomware,Critical,2212017.0,36793905.0,2024-11-25,PENDING,Company_138,Retail,USA,16.63,High Priority,2024,November
+C0028,B0140,Insider Threat,Critical,2230423.0,36788559.0,2024-07-25,PENDING,Company_28,Education,UK,16.49,High Priority,2024,July
+C0057,B0722,Ransomware,High,5857155.0,36749307.0,2025-05-10,RESOLVED,Company_57,Technology,USA,6.27,Normal,2025,May
+C0116,B0812,Phishing,Medium,9699655.0,36727732.0,2025-09-14,PENDING,Company_116,Energy,Japan,3.79,Normal,2025,September
+C0110,B0122,DDoS,Medium,4084332.0,36726588.0,2024-05-28,UNDER INVESTIGATION,Company_110,Retail,India,8.99,Normal,2024,May
+C0146,B0424,Ransomware,Medium,913521.0,36718176.0,2024-12-28,UNDER INVESTIGATION,Company_146,Government,India,40.19,Normal,2024,December
+C0086,B1000,Ransomware,Critical,8326680.0,36655774.0,2025-04-15,UNDER INVESTIGATION,Company_86,Healthcare,Japan,4.4,High Priority,2025,April
+C0032,B0443,Malware,Medium,8950543.0,36557326.0,2024-07-25,UNDER INVESTIGATION,Company_32,Healthcare,India,4.08,Normal,2024,July
+C0011,B0500,Insider Threat,High,5163065.0,36438107.0,2024-12-12,UNDER INVESTIGATION,Company_11,Retail,Australia,7.06,Normal,2024,December
+C0099,B0229,Ransomware,High,999731.0,36330671.0,2024-08-10,UNDER INVESTIGATION,Company_99,Finance,Australia,36.34,Normal,2024,August
+C0042,B0865,SQL Injection,Critical,9044442.0,36299809.0,2025-01-27,PENDING,Company_42,Technology,Germany,4.01,High Priority,2025,January
+C0142,B0910,Insider Threat,Critical,5082096.0,36162584.0,2025-05-14,PENDING,Company_142,Energy,France,7.12,High Priority,2025,May
+C0080,B0785,Malware,Low,8001471.0,36137483.0,2025-12-02,RESOLVED,Company_80,Education,France,4.52,Normal,2025,December
+C0089,B0950,Unknown,Medium,6964736.0,36133706.0,2025-02-08,UNDER INVESTIGATION,Company_89,Energy,Australia,5.19,Normal,2025,February
+C0144,B0895,DDoS,Critical,2880147.0,36125368.0,2025-12-02,UNDER INVESTIGATION,Company_144,Energy,Japan,12.54,High Priority,2025,December
+C0136,B0820,SQL Injection,Critical,9553805.0,36122782.0,2025-01-07,RESOLVED,Company_136,Technology,France,3.78,High Priority,2025,January
+C0052,B0080,Malware,Critical,7255730.0,36071417.0,2024-05-05,RESOLVED,Company_52,Education,Japan,4.97,High Priority,2024,May
+C0083,B0278,Malware,High,4326978.0,36070771.0,2024-08-10,RESOLVED,Company_83,Technology,India,8.34,Normal,2024,August
+C0122,B0883,Ransomware,Medium,2759136.0,36027551.0,2025-12-14,PENDING,Company_122,Energy,Germany,13.06,Normal,2025,December
+C0107,B0212,Unknown,Critical,4842584.0,35975004.0,2024-10-06,RESOLVED,Company_107,Technology,Germany,7.43,High Priority,2024,October
+C0022,B0174,Malware,Low,3588494.0,35931152.0,2024-10-08,RESOLVED,Company_22,Education,Germany,10.01,Normal,2024,October
+C0033,B0946,Phishing,High,9249754.0,35918610.0,2025-04-03,RESOLVED,Company_33,Government,Japan,3.88,Normal,2025,April
+C0068,B0293,Insider Threat,Low,3517563.0,35850349.0,2024-03-05,PENDING,Company_68,Automotive,Canada,10.19,Normal,2024,March
+C0048,B0598,Malware,Critical,4516329.0,35818145.0,2025-08-27,RESOLVED,Company_48,Healthcare,Germany,7.93,High Priority,2025,August
+C0029,B0687,DDoS,High,5855556.0,35760351.0,2025-11-15,PENDING,Company_29,Healthcare,USA,6.11,Normal,2025,November
+C0008,B0419,DDoS,Critical,4662554.0,35755176.0,2024-10-28,RESOLVED,Company_8,Healthcare,France,7.67,High Priority,2024,October
+C0028,B0075,Phishing,Critical,5535358.0,35729169.0,2024-02-27,UNDER INVESTIGATION,Company_28,Education,UK,6.45,High Priority,2024,February
+C0033,B0832,Phishing,Low,5951183.0,35720978.5,2025-04-26,PENDING,Company_33,Government,Japan,6.0,Normal,2025,April
+C0062,B0202,SQL Injection,Critical,8484243.0,35662630.0,2024-10-17,UNDER INVESTIGATION,Company_62,Automotive,Japan,4.2,High Priority,2024,October
+C0106,B0337,DDoS,Low,3852830.0,35620509.0,2024-02-21,RESOLVED,Company_106,Retail,Canada,9.25,Normal,2024,February
+C0102,B0956,Phishing,Critical,5993182.0,35591325.0,2025-07-24,RESOLVED,Company_102,Technology,Australia,5.94,High Priority,2025,July
+C0074,B0365,DDoS,High,8698789.0,35584654.0,2024-10-01,UNDER INVESTIGATION,Company_74,Retail,UK,4.09,Normal,2024,October
+C0005,B0287,Phishing,Medium,2520161.0,35490224.0,2024-11-02,PENDING,Company_5,Education,Germany,14.08,Normal,2024,November
+C0095,B0386,DDoS,Low,6633525.0,35468482.67,2024-06-08,UNDER INVESTIGATION,Company_95,Automotive,Germany,5.35,Normal,2024,June
+C0104,B0277,Malware,Low,3889460.0,35411841.0,2024-04-21,RESOLVED,Company_104,Healthcare,France,9.1,Normal,2024,April
+C0042,B0729,Unknown,Medium,8247978.0,35306001.0,2025-08-18,PENDING,Company_42,Technology,Germany,4.28,Normal,2025,August
+C0115,B0335,DDoS,Critical,3261584.0,35223064.0,2024-09-12,PENDING,Company_115,Automotive,Germany,10.8,High Priority,2024,September
+C0098,B0844,Malware,Critical,4103395.0,35220806.0,2025-08-07,PENDING,Company_98,Energy,France,8.58,High Priority,2025,August
+C0140,B0733,Phishing,Medium,4765324.0,35134075.0,2025-03-07,UNDER INVESTIGATION,Company_140,Technology,France,7.37,Normal,2025,March
+C0101,B0192,Unknown,Medium,7315138.0,35096913.0,2024-04-21,RESOLVED,Company_101,Finance,Japan,4.8,Normal,2024,April
+C0053,B0739,Unknown,Medium,7942873.0,35075755.0,2025-06-03,UNDER INVESTIGATION,Company_53,Automotive,Canada,4.42,Normal,2025,June
+C0107,B0685,DDoS,Medium,9149475.0,35065315.0,2025-05-07,UNDER INVESTIGATION,Company_107,Technology,Germany,3.83,Normal,2025,May
+C0020,B0522,Unknown,Critical,5630356.0,35008993.0,2025-07-21,PENDING,Company_20,Automotive,France,6.22,High Priority,2025,July
+C0104,B0576,Malware,Medium,619472.0,34953022.0,2025-01-26,PENDING,Company_104,Healthcare,France,56.42,Normal,2025,January
+C0022,B0839,Malware,High,5805446.0,34924168.0,2025-09-16,PENDING,Company_22,Education,Germany,6.02,Normal,2025,September
+C0076,B0906,Unknown,Low,6672635.0,34852047.67,2025-10-03,RESOLVED,Company_76,Energy,USA,5.22,Normal,2025,October
+C0003,B0855,SQL Injection,Low,7599273.0,34850785.0,2025-06-13,UNDER INVESTIGATION,Company_3,Energy,UK,4.59,Normal,2025,June
+C0020,B0193,SQL Injection,Low,3584376.0,34700224.0,2024-01-13,RESOLVED,Company_20,Automotive,France,9.68,Normal,2024,January
+C0122,B0301,Malware,Low,8485882.0,34690374.0,2024-09-05,PENDING,Company_122,Energy,Germany,4.09,Normal,2024,September
+C0061,B0245,Insider Threat,Critical,6545189.0,34584323.0,2024-10-18,PENDING,Company_61,Retail,UK,5.28,High Priority,2024,October
+C0027,B0704,Unknown,High,5130205.0,34476639.0,2025-09-14,PENDING,Company_27,Healthcare,Germany,6.72,Normal,2025,September
+C0103,B0525,DDoS,High,5664096.0,34417192.0,2025-10-01,RESOLVED,Company_103,Education,Germany,6.08,Normal,2025,October
+C0097,B0813,SQL Injection,Medium,7646449.0,34335827.0,2025-10-01,RESOLVED,Company_97,Finance,Japan,4.49,Normal,2025,October
+C0031,B0663,SQL Injection,Medium,5103194.0,34314844.0,2025-09-09,UNDER INVESTIGATION,Company_31,Education,Japan,6.72,Normal,2025,September
+C0046,B0290,Phishing,Low,7718659.0,34293222.0,2024-08-13,UNDER INVESTIGATION,Company_46,Technology,Canada,4.44,Normal,2024,August
+C0095,B0686,Phishing,Medium,511202.0,34199931.0,2025-06-22,RESOLVED,Company_95,Automotive,Germany,66.9,Normal,2025,June
+C0104,B0597,Unknown,Low,2021095.0,34105073.0,2025-08-04,RESOLVED,Company_104,Healthcare,France,16.87,Normal,2025,August
+C0081,B0668,Insider Threat,Critical,7430511.0,34086497.0,2025-02-01,PENDING,Company_81,Healthcare,UK,4.59,High Priority,2025,February
+C0043,B0913,Malware,High,7438838.0,34069215.0,2025-09-02,PENDING,Company_43,Retail,Australia,4.58,Normal,2025,September
+C0041,B0699,Ransomware,High,6009010.0,34031577.0,2025-11-14,PENDING,Company_41,Energy,Canada,5.66,Normal,2025,November
+C0051,B0412,DDoS,Low,7923648.0,34019389.0,2024-01-21,RESOLVED,Company_51,Education,India,4.29,Normal,2024,January
+C0051,B0289,Ransomware,Low,5148642.0,33963008.0,2024-11-14,RESOLVED,Company_51,Education,India,6.6,Normal,2024,November
+C0065,B0308,Ransomware,Critical,2888162.0,33954023.0,2024-03-17,PENDING,Company_65,Energy,France,11.76,High Priority,2024,March
+C0077,B0957,Unknown,Low,5459132.0,33905462.0,2025-12-12,PENDING,Company_77,Education,India,6.21,Normal,2025,December
+C0128,B0751,SQL Injection,Critical,8831011.0,33834548.0,2025-10-09,UNDER INVESTIGATION,Company_128,Energy,India,3.83,High Priority,2025,October
+C0084,B0581,DDoS,Critical,7258347.0,33833179.0,2025-05-18,UNDER INVESTIGATION,Company_84,Retail,Germany,4.66,High Priority,2025,May
+C0078,B0559,SQL Injection,Critical,8407674.0,33810414.0,2025-11-01,RESOLVED,Company_78,Healthcare,France,4.02,High Priority,2025,November
+C0097,B0358,Unknown,Medium,3231970.0,33767204.0,2024-05-15,RESOLVED,Company_97,Finance,Japan,10.45,Normal,2024,May
+C0106,B0242,Phishing,High,3657150.0,33726802.0,2024-02-06,PENDING,Company_106,Retail,Canada,9.22,Normal,2024,February
+C0029,B0137,DDoS,Critical,8450824.0,33715413.0,2024-01-03,PENDING,Company_29,Healthcare,USA,3.99,High Priority,2024,January
+C0140,B0852,Phishing,Low,2140741.0,33680566.0,2025-09-14,RESOLVED,Company_140,Technology,France,15.73,Normal,2025,September
+C0094,B0029,DDoS,High,2390830.0,33565372.0,2024-05-07,RESOLVED,Company_94,Automotive,USA,14.04,Normal,2024,May
+C0054,B0183,Malware,Critical,6413174.0,33421427.0,2024-08-14,PENDING,Company_54,Automotive,USA,5.21,High Priority,2024,August
+C0091,B0630,DDoS,High,7381673.0,33405193.0,2025-09-21,RESOLVED,Company_91,Education,India,4.53,Normal,2025,September
+C0121,B0437,SQL Injection,Low,3890019.0,33387789.0,2024-09-01,PENDING,Company_121,Retail,Japan,8.58,Normal,2024,September
+C0066,B0415,DDoS,High,5073581.0,33379057.0,2024-12-08,RESOLVED,Company_66,Energy,USA,6.58,Normal,2024,December
+C0010,B0994,Insider Threat,High,2870494.0,33329837.0,2025-06-02,RESOLVED,Company_10,Retail,Germany,11.61,Normal,2025,June
+C0116,B0059,Malware,Low,9042404.0,33314208.0,2024-07-10,UNDER INVESTIGATION,Company_116,Energy,Japan,3.68,Normal,2024,July
+C0016,B0850,Insider Threat,Medium,5516686.0,33280086.0,2025-05-01,PENDING,Company_16,Automotive,India,6.03,Normal,2025,May
+C0102,B0159,SQL Injection,Critical,5933699.0,33276053.0,2024-09-28,RESOLVED,Company_102,Technology,Australia,5.61,High Priority,2024,September
+C0148,B0022,Insider Threat,Medium,6172263.0,33274740.0,2024-02-23,RESOLVED,Company_148,Energy,Canada,5.39,Normal,2024,February
+C0092,B0878,Insider Threat,High,349987.0,33256774.0,2025-09-04,RESOLVED,Company_92,Technology,Germany,95.02,Normal,2025,September
+C0054,B0172,Insider Threat,High,6822142.0,33220923.0,2024-01-13,RESOLVED,Company_54,Automotive,USA,4.87,Normal,2024,January
+C0117,B0860,DDoS,High,1315120.0,33162275.0,2025-03-17,UNDER INVESTIGATION,Company_117,Energy,France,25.22,Normal,2025,March
+C0018,B0071,SQL Injection,High,1989367.0,33130112.0,2024-11-18,PENDING,Company_18,Government,Australia,16.65,Normal,2024,November
+C0116,B0240,Phishing,Low,2109278.0,32945776.5,2024-02-27,UNDER INVESTIGATION,Company_116,Energy,Japan,15.62,Normal,2024,February
+C0062,B0594,Malware,Low,8776956.0,32932691.0,2025-07-16,UNDER INVESTIGATION,Company_62,Automotive,Japan,3.75,Normal,2025,July
+C0143,B0480,Ransomware,Critical,4827212.0,32774223.0,2024-02-05,UNDER INVESTIGATION,Company_143,Government,India,6.79,High Priority,2024,February
+C0097,B0633,Insider Threat,Medium,8874792.0,32725344.0,2025-06-07,UNDER INVESTIGATION,Company_97,Finance,Japan,3.69,Normal,2025,June
+C0019,B0700,Insider Threat,High,1797283.0,32708669.33,2025-11-16,RESOLVED,Company_19,Finance,India,18.2,Normal,2025,November
+C0100,B0349,Malware,Critical,2268511.0,32693375.5,2024-11-11,RESOLVED,Company_100,Finance,Canada,14.41,High Priority,2024,November
+C0021,B0893,Ransomware,Medium,3285612.0,32555780.0,2025-09-10,RESOLVED,Company_21,Technology,Australia,9.91,Normal,2025,September
+C0129,B0535,DDoS,Low,9616098.0,32537144.0,2025-01-09,UNDER INVESTIGATION,Company_129,Government,Canada,3.38,Normal,2025,January
+C0141,B0808,Ransomware,Medium,446080.0,32515372.0,2025-05-22,PENDING,Company_141,Technology,Australia,72.89,Normal,2025,May
+C0025,B0458,SQL Injection,High,5205086.0,32481151.0,2024-04-22,PENDING,Company_25,Government,UK,6.24,Normal,2024,April
+C0092,B0983,Malware,High,309500.0,32478383.0,2025-05-11,UNDER INVESTIGATION,Company_92,Technology,Germany,104.94,Normal,2025,May
+C0147,B0064,DDoS,Medium,2099441.0,32471096.0,2024-08-09,UNDER INVESTIGATION,Company_147,Technology,UK,15.47,Normal,2024,August
+C0040,B0561,Malware,Critical,6208041.0,32463376.0,2025-06-28,RESOLVED,Company_40,Retail,Japan,5.23,High Priority,2025,June
+C0038,B0367,Unknown,Low,7434895.0,32389884.0,2024-05-18,UNDER INVESTIGATION,Company_38,Government,Australia,4.36,Normal,2024,May
+C0041,B0825,Phishing,Medium,476718.0,32389123.0,2025-09-10,UNDER INVESTIGATION,Company_41,Energy,Canada,67.94,Normal,2025,September
+C0102,B0331,Unknown,High,6339619.0,32388793.0,2024-02-18,UNDER INVESTIGATION,Company_102,Technology,Australia,5.11,Normal,2024,February
+C0040,B0810,SQL Injection,High,7514366.0,32304316.0,2025-12-10,UNDER INVESTIGATION,Company_40,Retail,Japan,4.3,Normal,2025,December
+C0048,B0995,Phishing,High,9454846.0,32250902.0,2025-09-26,PENDING,Company_48,Healthcare,Germany,3.41,Normal,2025,September
+C0008,B0933,Ransomware,Low,9929277.0,32225546.0,2025-09-12,RESOLVED,Company_8,Healthcare,France,3.25,Normal,2025,September
+C0086,B0375,DDoS,High,5594655.0,32100083.0,2024-08-05,PENDING,Company_86,Healthcare,Japan,5.74,Normal,2024,August
+C0025,B0015,Insider Threat,Critical,7096274.0,32072027.0,2024-12-13,PENDING,Company_25,Government,UK,4.52,High Priority,2024,December
+C0063,B0909,DDoS,High,5391338.0,32042755.0,2025-01-14,RESOLVED,Company_63,Healthcare,UK,5.94,Normal,2025,January
+C0105,B0485,DDoS,High,5425016.0,32035883.0,2024-05-09,RESOLVED,Company_105,Retail,Germany,5.91,Normal,2024,May
+C0048,B0316,Ransomware,Critical,3791177.0,32014972.5,2024-01-07,UNDER INVESTIGATION,Company_48,Healthcare,Germany,8.44,High Priority,2024,January
+C0031,B0618,Ransomware,Low,1164642.0,31948600.0,2025-03-18,PENDING,Company_31,Education,Japan,27.43,Normal,2025,March
+C0116,B0506,Malware,Medium,6720349.0,31944397.0,2025-02-12,UNDER INVESTIGATION,Company_116,Energy,Japan,4.75,Normal,2025,February
+C0131,B0954,SQL Injection,Critical,7015049.0,31897372.0,2025-02-02,RESOLVED,Company_131,Energy,Canada,4.55,High Priority,2025,February
+C0002,B0908,Insider Threat,Medium,3808444.0,31801653.0,2025-03-07,UNDER INVESTIGATION,Company_2,Retail,India,8.35,Normal,2025,March
+C0012,B0302,SQL Injection,Critical,7752431.0,31791851.0,2024-05-09,PENDING,Company_12,Energy,UK,4.1,High Priority,2024,May
+C0043,B0413,SQL Injection,Medium,5647142.0,31777363.0,2024-06-02,UNDER INVESTIGATION,Company_43,Retail,Australia,5.63,Normal,2024,June
+C0080,B0713,Phishing,Medium,9308936.0,31753470.0,2025-12-15,PENDING,Company_80,Education,France,3.41,Normal,2025,December
+C0115,B0767,Insider Threat,Critical,2873899.0,31718989.0,2025-12-14,PENDING,Company_115,Automotive,Germany,11.04,High Priority,2025,December
+C0056,B0870,Ransomware,High,2391142.0,31715438.0,2025-07-25,UNDER INVESTIGATION,Company_56,Energy,France,13.26,Normal,2025,July
+C0110,B0547,Ransomware,Critical,7238306.0,31693844.0,2025-11-13,UNDER INVESTIGATION,Company_110,Retail,India,4.38,High Priority,2025,November
+C0058,B0794,DDoS,Medium,1761552.0,31615208.0,2025-09-07,RESOLVED,Company_58,Technology,USA,17.95,Normal,2025,September
+C0006,B0864,SQL Injection,Critical,9168826.0,31567837.0,2025-02-15,RESOLVED,Company_6,Government,Japan,3.44,High Priority,2025,February
+C0100,B0257,Unknown,Critical,2161538.0,31562691.0,2024-05-17,RESOLVED,Company_100,Finance,Canada,14.6,High Priority,2024,May
+C0125,B0968,DDoS,Low,5797157.0,31548398.0,2025-07-04,UNDER INVESTIGATION,Company_125,Energy,Japan,5.44,Normal,2025,July
+C0138,B0474,Malware,Low,3034520.0,31413087.5,2024-07-18,PENDING,Company_138,Retail,USA,10.35,Normal,2024,July
+C0073,B0510,SQL Injection,Critical,1700317.0,31345249.0,2025-01-21,UNDER INVESTIGATION,Company_73,Finance,USA,18.43,High Priority,2025,January
+C0073,B0823,Phishing,High,8242834.0,31194657.0,2025-03-06,UNDER INVESTIGATION,Company_73,Finance,USA,3.78,Normal,2025,March
+C0017,B0268,Insider Threat,High,6683202.0,31162929.0,2024-07-25,UNDER INVESTIGATION,Company_17,Technology,Canada,4.66,Normal,2024,July
+C0108,B0198,DDoS,Medium,2780014.0,31103208.0,2024-01-12,PENDING,Company_108,Automotive,Canada,11.19,Normal,2024,January
+C0058,B0897,Phishing,Critical,9369400.0,31055270.0,2025-05-16,UNDER INVESTIGATION,Company_58,Technology,USA,3.31,High Priority,2025,May
+C0140,B0263,Insider Threat,Low,5707143.0,31016086.0,2024-07-09,UNDER INVESTIGATION,Company_140,Technology,France,5.43,Normal,2024,July
+C0137,B0002,Phishing,Critical,2773597.0,31000088.0,2024-10-28,UNDER INVESTIGATION,Company_137,Government,Germany,11.18,High Priority,2024,October
+C0145,B0031,Malware,Low,940144.0,30984368.0,2024-04-19,RESOLVED,Company_145,Technology,Germany,32.96,Normal,2024,April
+C0098,B0643,DDoS,High,9552853.0,30966348.0,2025-07-01,PENDING,Company_98,Energy,France,3.24,Normal,2025,July
+C0017,B0806,Ransomware,High,6605782.0,30937324.0,2025-05-05,RESOLVED,Company_17,Technology,Canada,4.68,Normal,2025,May
+C0121,B0831,Ransomware,Medium,1748024.0,30900424.0,2025-08-21,UNDER INVESTIGATION,Company_121,Retail,Japan,17.68,Normal,2025,August
+C0091,B0536,Insider Threat,Low,8788123.0,30884020.0,2025-02-01,PENDING,Company_91,Education,India,3.51,Normal,2025,February
+C0134,B0543,Unknown,Critical,5430488.0,30804390.5,2025-08-15,PENDING,Company_134,Energy,France,5.67,High Priority,2025,August
+C0048,B0629,Ransomware,Medium,7414526.0,30760704.5,2025-08-07,PENDING,Company_48,Healthcare,Germany,4.15,Normal,2025,August
+C0062,B0636,Ransomware,Low,1282126.0,30696317.0,2025-04-13,RESOLVED,Company_62,Automotive,Japan,23.94,Normal,2025,April
+C0086,B0096,Malware,Low,3732669.0,30495533.0,2024-11-10,RESOLVED,Company_86,Healthcare,Japan,8.17,Normal,2024,November
+C0040,B0745,DDoS,Low,8477106.0,30413277.0,2025-05-21,RESOLVED,Company_40,Retail,Japan,3.59,Normal,2025,May
+C0140,B0797,Phishing,Low,1830246.0,30400369.0,2025-03-13,UNDER INVESTIGATION,Company_140,Technology,France,16.61,Normal,2025,March
+C0124,B0332,Unknown,Critical,3185709.0,30364607.0,2024-10-26,PENDING,Company_124,Finance,India,9.53,High Priority,2024,October
+C0029,B0373,Malware,High,519561.0,30354422.0,2024-03-03,RESOLVED,Company_29,Healthcare,USA,58.42,Normal,2024,March
+C0071,B0166,Malware,Medium,6105683.0,30306399.0,2024-02-06,PENDING,Company_71,Technology,India,4.96,Normal,2024,February
+C0096,B0557,Phishing,Medium,5342627.0,30212512.0,2025-04-20,UNDER INVESTIGATION,Company_96,Education,Germany,5.65,Normal,2025,April
+C0089,B0350,Ransomware,Low,8092123.0,30162384.0,2024-03-02,PENDING,Company_89,Energy,Australia,3.73,Normal,2024,March
+C0106,B0642,Phishing,Low,3284007.0,30123384.0,2025-08-14,RESOLVED,Company_106,Retail,Canada,9.17,Normal,2025,August
+C0018,B0649,Malware,Medium,2514636.0,30082087.0,2025-11-05,PENDING,Company_18,Government,Australia,11.96,Normal,2025,November
+C0132,B0730,DDoS,Critical,9415316.0,30069265.0,2025-04-27,PENDING,Company_132,Education,USA,3.19,High Priority,2025,April
+C0023,B0904,Ransomware,Critical,8783522.0,29974453.0,2025-09-11,PENDING,Company_23,Automotive,France,3.41,High Priority,2025,September
+C0019,B0472,Insider Threat,Critical,6490921.0,29959958.0,2024-05-02,RESOLVED,Company_19,Finance,India,4.62,High Priority,2024,May
+C0106,B0723,Ransomware,High,2304648.0,29856201.0,2025-11-03,RESOLVED,Company_106,Retail,Canada,12.95,Normal,2025,November
+C0105,B0976,Insider Threat,Low,8467280.0,29830459.0,2025-08-20,UNDER INVESTIGATION,Company_105,Retail,Germany,3.52,Normal,2025,August
+C0084,B0035,Phishing,Low,8204172.0,29777046.0,2024-04-12,UNDER INVESTIGATION,Company_84,Retail,Germany,3.63,Normal,2024,April
+C0009,B0929,Ransomware,Low,5165714.0,29775151.0,2025-05-22,RESOLVED,Company_9,Automotive,France,5.76,Normal,2025,May
+C0001,B0464,SQL Injection,Critical,7966402.0,29736975.0,2024-10-22,UNDER INVESTIGATION,Company_1,Government,Japan,3.73,High Priority,2024,October
+C0004,B0333,Phishing,High,1543783.0,29722350.0,2024-05-28,UNDER INVESTIGATION,Company_4,Energy,France,19.25,Normal,2024,May
+C0081,B0063,SQL Injection,High,196480.0,29711801.0,2024-09-07,PENDING,Company_81,Healthcare,UK,151.22,Normal,2024,September
+C0149,B0188,Ransomware,High,6819415.0,29710850.5,2024-09-21,UNDER INVESTIGATION,Company_149,Healthcare,India,4.36,Normal,2024,September
+C0010,B0417,Phishing,High,3687759.0,29697682.0,2024-08-22,RESOLVED,Company_10,Retail,Germany,8.05,Normal,2024,August
+C0037,B0656,DDoS,High,237501.0,29669614.0,2025-02-19,PENDING,Company_37,Healthcare,Germany,124.92,Normal,2025,February
+C0008,B0498,DDoS,Critical,8492608.0,29657203.5,2024-05-12,RESOLVED,Company_8,Healthcare,France,3.49,High Priority,2024,May
+C0111,B0565,Ransomware,Critical,8897671.0,29616470.0,2025-09-18,UNDER INVESTIGATION,Company_111,Education,UK,3.33,High Priority,2025,September
+C0098,B0145,Phishing,High,6687843.0,29580975.0,2024-12-09,RESOLVED,Company_98,Energy,France,4.42,Normal,2024,December
+C0106,B0210,DDoS,Critical,6102750.0,29545302.0,2024-07-10,PENDING,Company_106,Retail,Canada,4.84,High Priority,2024,July
+C0012,B0456,Malware,Medium,8936737.0,29522011.0,2024-08-11,RESOLVED,Company_12,Energy,UK,3.3,Normal,2024,August
+C0092,B0575,Ransomware,High,4507023.0,29443820.0,2025-06-21,RESOLVED,Company_92,Technology,Germany,6.53,Normal,2025,June
+C0094,B0801,Malware,High,5297600.0,29379103.0,2025-01-14,UNDER INVESTIGATION,Company_94,Automotive,USA,5.55,Normal,2025,January
+C0044,B0377,DDoS,High,3466279.0,29370935.0,2024-08-08,UNDER INVESTIGATION,Company_44,Retail,Canada,8.47,Normal,2024,August
+C0100,B0249,Phishing,Low,3407264.0,29314646.0,2024-12-10,UNDER INVESTIGATION,Company_100,Finance,Canada,8.6,Normal,2024,December
+C0108,B0391,Ransomware,High,802540.0,29199217.0,2024-01-09,RESOLVED,Company_108,Automotive,Canada,36.38,Normal,2024,January
+C0061,B0936,Malware,Medium,9141686.0,29194442.5,2025-11-01,PENDING,Company_61,Retail,UK,3.19,Normal,2025,November
+C0086,B0207,Unknown,Low,5049222.0,29144484.0,2024-02-27,PENDING,Company_86,Healthcare,Japan,5.77,Normal,2024,February
+C0129,B0325,SQL Injection,Low,592210.0,29137767.0,2024-08-14,PENDING,Company_129,Government,Canada,49.2,Normal,2024,August
+C0138,B0237,Malware,Critical,5804937.0,29120398.0,2024-04-10,PENDING,Company_138,Retail,USA,5.02,High Priority,2024,April
+C0055,B0238,Insider Threat,Medium,9564302.0,29039714.0,2024-09-20,RESOLVED,Company_55,Technology,Canada,3.04,Normal,2024,September
+C0048,B0101,SQL Injection,Low,3032041.0,29003921.0,2024-05-20,PENDING,Company_48,Healthcare,Germany,9.57,Normal,2024,May
+C0048,B0692,Phishing,Critical,8407953.0,28884942.0,2025-01-21,RESOLVED,Company_48,Healthcare,Germany,3.44,High Priority,2025,January
+C0085,B0766,Ransomware,Critical,3063446.0,28743778.0,2025-07-08,UNDER INVESTIGATION,Company_85,Education,USA,9.38,High Priority,2025,July
+C0074,B0708,SQL Injection,Low,8072108.0,28741322.0,2025-04-15,RESOLVED,Company_74,Retail,UK,3.56,Normal,2025,April
+C0128,B0211,Insider Threat,Critical,4716249.0,28531929.0,2024-03-26,UNDER INVESTIGATION,Company_128,Energy,India,6.05,High Priority,2024,March
+C0099,B0761,Insider Threat,Medium,687631.0,28505580.0,2025-09-07,RESOLVED,Company_99,Finance,Australia,41.45,Normal,2025,September
+C0088,B0213,Malware,Critical,5927895.0,28406543.0,2024-08-09,RESOLVED,Company_88,Healthcare,France,4.79,High Priority,2024,August
+C0049,B0752,Ransomware,Medium,3750202.0,28314553.0,2025-07-02,PENDING,Company_49,Technology,Canada,7.55,Normal,2025,July
+C0034,B0746,Phishing,Medium,5149795.0,28190303.0,2025-08-26,PENDING,Company_34,Government,Australia,5.47,Normal,2025,August
+C0083,B0556,Insider Threat,Low,5082154.0,28186011.0,2025-01-11,PENDING,Company_83,Technology,India,5.55,Normal,2025,January
+C0065,B0625,DDoS,High,1537404.0,28127359.0,2025-10-20,PENDING,Company_65,Energy,France,18.3,Normal,2025,October
+C0072,B0617,Phishing,Medium,5936704.0,27997163.0,2025-07-18,RESOLVED,Company_72,Finance,France,4.72,Normal,2025,July
+C0083,B0323,Phishing,Low,4605405.0,27987763.0,2024-12-15,PENDING,Company_83,Technology,India,6.08,Normal,2024,December
+C0029,B0517,Unknown,Critical,5466558.0,27983960.0,2025-05-27,PENDING,Company_29,Healthcare,USA,5.12,High Priority,2025,May
+C0039,B0318,DDoS,Critical,5654546.0,27974630.0,2024-09-24,RESOLVED,Company_39,Energy,Canada,4.95,High Priority,2024,September
+C0104,B0531,Malware,Medium,2207896.0,27927820.0,2025-06-11,RESOLVED,Company_104,Healthcare,France,12.65,Normal,2025,June
+C0064,B0537,Malware,Critical,6143582.0,27868904.0,2025-07-16,RESOLVED,Company_64,Retail,Australia,4.54,High Priority,2025,July
+C0080,B0787,Unknown,Medium,2312490.0,27839551.0,2025-07-25,PENDING,Company_80,Education,France,12.04,Normal,2025,July
+C0008,B0566,DDoS,High,6502328.0,27806024.0,2025-12-04,RESOLVED,Company_8,Healthcare,France,4.28,Normal,2025,December
+C0024,B0900,DDoS,Critical,4830904.0,27750786.0,2025-06-18,PENDING,Company_24,Technology,Japan,5.74,High Priority,2025,June
+C0132,B0078,Unknown,High,9903066.0,27716416.0,2024-05-19,PENDING,Company_132,Education,USA,2.8,Normal,2024,May
+C0059,B0719,Insider Threat,High,4077606.0,27609336.0,2025-12-05,RESOLVED,Company_59,Energy,USA,6.77,Normal,2025,December
+C0012,B0544,SQL Injection,High,7138414.0,27592638.0,2025-04-04,PENDING,Company_12,Energy,UK,3.87,Normal,2025,April
+C0053,B0966,Malware,High,3019730.0,27573427.0,2025-01-03,RESOLVED,Company_53,Automotive,Canada,9.13,Normal,2025,January
+C0135,B0396,Malware,High,8296569.0,27549970.0,2024-08-25,UNDER INVESTIGATION,Company_135,Energy,USA,3.32,Normal,2024,August
+C0057,B0422,Unknown,High,4304958.0,27520891.0,2024-12-28,RESOLVED,Company_57,Technology,USA,6.39,Normal,2024,December
+C0136,B0490,Phishing,High,4410562.0,27516495.0,2024-08-12,UNDER INVESTIGATION,Company_136,Technology,France,6.24,Normal,2024,August
+C0021,B0980,DDoS,Low,5815482.0,27515853.0,2025-07-08,UNDER INVESTIGATION,Company_21,Technology,Australia,4.73,Normal,2025,July
+C0007,B0889,DDoS,Medium,700372.0,27499391.0,2025-06-12,RESOLVED,Company_7,Energy,Canada,39.26,Normal,2025,June
+C0041,B0935,Phishing,High,5201354.0,27492160.0,2025-02-22,PENDING,Company_41,Energy,Canada,5.29,Normal,2025,February
+C0085,B0676,DDoS,Critical,5753955.0,27411270.0,2025-06-23,RESOLVED,Company_85,Education,USA,4.76,High Priority,2025,June
+C0109,B0622,Unknown,High,9174009.0,27399735.5,2025-03-18,PENDING,Company_109,Education,Canada,2.99,Normal,2025,March
+C0117,B0967,Insider Threat,High,4394637.0,27366746.0,2025-06-01,PENDING,Company_117,Energy,France,6.23,Normal,2025,June
+C0068,B0907,Malware,Critical,6778269.0,27365900.5,2025-07-26,PENDING,Company_68,Automotive,Canada,4.04,High Priority,2025,July
+C0081,B0639,Malware,Low,4872137.0,27279528.0,2025-03-02,RESOLVED,Company_81,Healthcare,UK,5.6,Normal,2025,March
+C0051,B0679,SQL Injection,Low,9214169.0,27251691.0,2025-09-23,RESOLVED,Company_51,Education,India,2.96,Normal,2025,September
+C0003,B0836,Phishing,High,4945717.0,27205902.0,2025-03-11,RESOLVED,Company_3,Energy,UK,5.5,Normal,2025,March
+C0139,B0783,SQL Injection,High,9653526.0,27115058.67,2025-11-15,RESOLVED,Company_139,Government,France,2.81,Normal,2025,November
+C0019,B0949,Ransomware,Low,2061765.0,27110870.0,2025-11-18,UNDER INVESTIGATION,Company_19,Finance,India,13.15,Normal,2025,November
+C0019,B0404,Ransomware,Medium,8843965.0,27076170.0,2024-11-11,UNDER INVESTIGATION,Company_19,Finance,India,3.06,Normal,2024,November
+C0110,B0266,Insider Threat,High,6461975.0,27066633.0,2024-02-21,PENDING,Company_110,Retail,India,4.19,Normal,2024,February
+C0124,B0914,Phishing,Low,9885349.0,27034930.0,2025-05-21,UNDER INVESTIGATION,Company_124,Finance,India,2.73,Normal,2025,May
+C0146,B0890,Malware,High,5318278.0,27010464.0,2025-10-24,PENDING,Company_146,Government,India,5.08,Normal,2025,October
+C0045,B0503,DDoS,High,1260437.0,27004751.0,2025-03-17,RESOLVED,Company_45,Retail,India,21.42,Normal,2025,March
+C0038,B0099,Ransomware,Critical,3816175.0,26895565.0,2024-05-28,PENDING,Company_38,Government,Australia,7.05,High Priority,2024,May
+C0085,B0455,Malware,High,8589844.0,26855893.0,2024-03-12,RESOLVED,Company_85,Education,USA,3.13,Normal,2024,March
+C0136,B0065,Ransomware,Medium,4758648.0,26759149.0,2024-05-15,PENDING,Company_136,Technology,France,5.62,Normal,2024,May
+C0068,B0571,Phishing,Critical,4805475.0,26718958.0,2025-09-20,UNDER INVESTIGATION,Company_68,Automotive,Canada,5.56,High Priority,2025,September
+C0128,B0523,Phishing,High,4561666.0,26677075.0,2025-08-20,RESOLVED,Company_128,Energy,India,5.85,Normal,2025,August
+C0106,B0256,Phishing,Low,1120302.0,26605710.0,2024-01-18,PENDING,Company_106,Retail,Canada,23.75,Normal,2024,January
+C0032,B0853,Phishing,High,8525578.0,26592878.0,2025-05-20,PENDING,Company_32,Healthcare,India,3.12,Normal,2025,May
+C0057,B0254,SQL Injection,Critical,7341478.0,26490396.0,2024-08-03,UNDER INVESTIGATION,Company_57,Technology,USA,3.61,High Priority,2024,August
+C0098,B0344,DDoS,High,9499246.0,26468804.0,2024-07-09,UNDER INVESTIGATION,Company_98,Energy,France,2.79,Normal,2024,July
+C0055,B0411,Ransomware,Medium,5460754.0,26428911.0,2024-05-19,RESOLVED,Company_55,Technology,Canada,4.84,Normal,2024,May
+C0103,B0601,Unknown,Low,8307129.0,26415013.0,2025-04-09,UNDER INVESTIGATION,Company_103,Education,Germany,3.18,Normal,2025,April
+C0065,B0973,Malware,Medium,3108778.0,26339255.0,2025-11-18,PENDING,Company_65,Energy,France,8.47,Normal,2025,November
+C0145,B0816,Ransomware,High,7497186.0,26338470.0,2025-09-03,UNDER INVESTIGATION,Company_145,Technology,Germany,3.51,Normal,2025,September
+C0107,B0007,Malware,Low,5097370.0,26320968.0,2024-11-21,UNDER INVESTIGATION,Company_107,Technology,Germany,5.16,Normal,2024,November
+C0088,B0610,DDoS,Medium,8063040.0,26300603.0,2025-08-07,UNDER INVESTIGATION,Company_88,Healthcare,France,3.26,Normal,2025,August
+C0094,B0504,SQL Injection,Low,7595549.0,26275465.0,2025-06-14,RESOLVED,Company_94,Automotive,USA,3.46,Normal,2025,June
+C0089,B0562,SQL Injection,High,5691494.0,26172852.0,2025-10-15,RESOLVED,Company_89,Energy,Australia,4.6,Normal,2025,October
+C0020,B0295,Malware,Medium,860661.0,26148853.0,2024-03-12,PENDING,Company_20,Automotive,France,30.38,Normal,2024,March
+C0042,B0354,Insider Threat,Medium,6898245.0,26078634.0,2024-07-09,RESOLVED,Company_42,Technology,Germany,3.78,Normal,2024,July
+C0129,B0588,Phishing,Critical,8919262.0,26058483.0,2025-04-20,RESOLVED,Company_129,Government,Canada,2.92,High Priority,2025,April
+C0038,B0013,Malware,High,7483707.0,25871314.0,2024-08-04,RESOLVED,Company_38,Government,Australia,3.46,Normal,2024,August
+C0109,B0439,Malware,Critical,2726059.0,25867850.0,2024-12-23,PENDING,Company_109,Education,Canada,9.49,High Priority,2024,December
+C0083,B0533,Phishing,High,9061191.0,25779628.0,2025-10-10,UNDER INVESTIGATION,Company_83,Technology,India,2.85,Normal,2025,October
+C0099,B0119,DDoS,Low,3652481.0,25627849.0,2024-06-20,PENDING,Company_99,Finance,Australia,7.02,Normal,2024,June
+C0049,B0681,DDoS,High,475090.0,25625331.0,2025-10-02,UNDER INVESTIGATION,Company_49,Technology,Canada,53.94,Normal,2025,October
+C0051,B0932,SQL Injection,High,8502844.0,25586434.0,2025-06-20,PENDING,Company_51,Education,India,3.01,Normal,2025,June
+C0042,B0776,DDoS,Medium,3900168.0,25562566.0,2025-08-10,RESOLVED,Company_42,Technology,Germany,6.55,Normal,2025,August
+C0023,B0786,Ransomware,Critical,1375479.0,25405246.0,2025-05-08,UNDER INVESTIGATION,Company_23,Automotive,France,18.47,High Priority,2025,May
+C0088,B0926,Phishing,Critical,3062245.0,25391825.0,2025-08-07,RESOLVED,Company_88,Healthcare,France,8.29,High Priority,2025,August
+C0024,B0314,Insider Threat,Low,6756089.0,25383335.0,2024-12-01,PENDING,Company_24,Technology,Japan,3.76,Normal,2024,December
+C0063,B0964,Malware,Low,1814301.0,25359181.0,2025-07-12,PENDING,Company_63,Healthcare,UK,13.98,Normal,2025,July
+C0142,B0620,Insider Threat,Low,9869360.0,25338197.0,2025-02-18,UNDER INVESTIGATION,Company_142,Energy,France,2.57,Normal,2025,February
+C0105,B0721,SQL Injection,High,6722777.0,25241861.0,2025-10-28,UNDER INVESTIGATION,Company_105,Retail,Germany,3.75,Normal,2025,October
+C0134,B0271,Malware,Medium,681796.0,25211997.33,2024-06-08,UNDER INVESTIGATION,Company_134,Energy,France,36.98,Normal,2024,June
+C0073,B0317,DDoS,Medium,1655003.0,25194048.0,2024-07-17,PENDING,Company_73,Finance,USA,15.22,Normal,2024,July
+C0036,B0230,Insider Threat,High,9127957.0,25134406.0,2024-10-04,UNDER INVESTIGATION,Company_36,Finance,India,2.75,Normal,2024,October
+C0101,B0640,Phishing,Medium,2348205.0,25077026.5,2025-09-16,PENDING,Company_101,Finance,Japan,10.68,Normal,2025,September
+C0009,B0356,Unknown,Critical,3810028.0,25046504.0,2024-02-24,PENDING,Company_9,Automotive,France,6.57,High Priority,2024,February
+C0027,B0644,Unknown,Medium,7616526.0,24972870.0,2025-06-04,RESOLVED,Company_27,Healthcare,Germany,3.28,Normal,2025,June
+C0095,B0379,DDoS,Medium,3152371.0,24854107.0,2024-08-13,PENDING,Company_95,Automotive,Germany,7.88,Normal,2024,August
+C0066,B0847,Phishing,Medium,1278777.0,24844238.0,2025-02-13,UNDER INVESTIGATION,Company_66,Energy,USA,19.43,Normal,2025,February
+C0113,B0050,SQL Injection,Medium,1310080.0,24824131.0,2024-06-15,PENDING,Company_113,Automotive,Australia,18.95,Normal,2024,June
+C0132,B0049,Ransomware,Low,2517322.0,24806286.0,2024-12-10,UNDER INVESTIGATION,Company_132,Education,USA,9.85,Normal,2024,December
+C0004,B0520,Unknown,Medium,766470.0,24740926.0,2025-08-25,RESOLVED,Company_4,Energy,France,32.28,Normal,2025,August
+C0092,B0505,Insider Threat,Low,1743331.0,24738292.0,2025-09-01,PENDING,Company_92,Technology,Germany,14.19,Normal,2025,September
+C0133,B0671,Phishing,Medium,2618769.0,24733430.0,2025-04-28,PENDING,Company_133,Government,Germany,9.44,Normal,2025,April
+C0045,B0362,DDoS,Low,9106872.0,24723039.0,2024-10-04,RESOLVED,Company_45,Retail,India,2.71,Normal,2024,October
+C0149,B0940,SQL Injection,Medium,3015989.0,24578471.0,2025-11-02,UNDER INVESTIGATION,Company_149,Healthcare,India,8.15,Normal,2025,November
+C0126,B0130,SQL Injection,High,9403416.0,24523034.0,2024-12-23,RESOLVED,Company_126,Automotive,Australia,2.61,Normal,2024,December
+C0060,B0804,Unknown,Medium,333937.0,24509010.0,2025-01-26,RESOLVED,Company_60,Retail,France,73.39,Normal,2025,January
+C0076,B0028,Ransomware,High,63883.0,24497402.0,2024-04-06,UNDER INVESTIGATION,Company_76,Energy,USA,383.47,Normal,2024,April
+C0145,B0615,Ransomware,Medium,7615206.0,24478808.0,2025-09-06,RESOLVED,Company_145,Technology,Germany,3.21,Normal,2025,September
+C0060,B0693,Phishing,High,8582685.0,24410478.0,2025-12-13,UNDER INVESTIGATION,Company_60,Retail,France,2.84,Normal,2025,December
+C0032,B0518,Insider Threat,Medium,6865221.0,24365062.0,2025-04-25,UNDER INVESTIGATION,Company_32,Healthcare,India,3.55,Normal,2025,April
+C0048,B0496,Malware,Critical,1518674.0,24311672.0,2024-10-05,RESOLVED,Company_48,Healthcare,Germany,16.01,High Priority,2024,October
+C0100,B0187,Phishing,High,8845314.0,24294503.0,2024-03-03,UNDER INVESTIGATION,Company_100,Finance,Canada,2.75,Normal,2024,March
+C0067,B0771,Malware,High,8057031.0,24293610.0,2025-12-08,RESOLVED,Company_67,Education,Germany,3.02,Normal,2025,December
+C0027,B0673,DDoS,Critical,2129872.0,24249780.0,2025-08-28,UNDER INVESTIGATION,Company_27,Healthcare,Germany,11.39,High Priority,2025,August
+C0082,B0311,Insider Threat,High,1868013.0,24237080.0,2024-10-05,RESOLVED,Company_82,Government,France,12.97,Normal,2024,October
+C0024,B0247,Malware,Medium,4605496.0,24186426.0,2024-09-26,PENDING,Company_24,Technology,Japan,5.25,Normal,2024,September
+C0135,B0511,Malware,Medium,9576259.0,24182279.0,2025-03-27,RESOLVED,Company_135,Energy,USA,2.53,Normal,2025,March
+C0077,B0857,Insider Threat,High,1286985.0,24161497.0,2025-10-09,UNDER INVESTIGATION,Company_77,Education,India,18.77,Normal,2025,October
+C0054,B0869,Insider Threat,Critical,2949440.0,24151400.0,2025-05-21,PENDING,Company_54,Automotive,USA,8.19,High Priority,2025,May
+C0111,B0227,DDoS,Low,6320306.0,24140505.0,2024-06-11,RESOLVED,Company_111,Education,UK,3.82,Normal,2024,June
+C0031,B0969,DDoS,Critical,7358024.0,24077396.0,2025-06-01,PENDING,Company_31,Education,Japan,3.27,High Priority,2025,June
+C0124,B0171,Malware,Medium,1189025.0,23964948.0,2024-07-02,PENDING,Company_124,Finance,India,20.16,Normal,2024,July
+C0050,B0920,DDoS,Critical,7181782.0,23963664.0,2025-07-25,UNDER INVESTIGATION,Company_50,Education,Australia,3.34,High Priority,2025,July
+C0131,B0390,Ransomware,Medium,7338363.0,23915489.0,2024-05-17,RESOLVED,Company_131,Energy,Canada,3.26,Normal,2024,May
+C0014,B0937,Malware,Critical,2963069.0,23834164.0,2025-04-24,PENDING,Company_14,Energy,Japan,8.04,High Priority,2025,April
+C0011,B0204,Ransomware,High,9398017.0,23825232.5,2024-06-28,RESOLVED,Company_11,Retail,Australia,2.54,Normal,2024,June
+C0004,B0574,DDoS,Critical,1048047.0,23452997.0,2025-07-17,PENDING,Company_4,Energy,France,22.38,High Priority,2025,July
+C0107,B0499,Ransomware,High,1665709.0,23448254.0,2024-12-13,PENDING,Company_107,Technology,Germany,14.08,Normal,2024,December
+C0004,B0609,Ransomware,Low,7483297.0,23210021.33,2025-10-03,RESOLVED,Company_4,Energy,France,3.1,Normal,2025,October
+C0027,B0397,Ransomware,High,7214335.0,23204967.0,2024-10-23,UNDER INVESTIGATION,Company_27,Healthcare,Germany,3.22,Normal,2024,October
+C0123,B0431,Malware,High,8140760.0,23117317.0,2024-08-26,PENDING,Company_123,Retail,India,2.84,Normal,2024,August
+C0071,B0265,DDoS,High,9186462.0,23087331.0,2024-02-02,UNDER INVESTIGATION,Company_71,Technology,India,2.51,Normal,2024,February
+C0128,B0206,SQL Injection,Critical,5935415.0,23045651.0,2024-11-23,UNDER INVESTIGATION,Company_128,Energy,India,3.88,High Priority,2024,November
+C0024,B0758,Ransomware,Critical,3997595.0,23040049.0,2025-10-17,PENDING,Company_24,Technology,Japan,5.76,High Priority,2025,October
+C0124,B0552,Insider Threat,Low,6633269.0,22987979.0,2025-06-02,UNDER INVESTIGATION,Company_124,Finance,India,3.47,Normal,2025,June
+C0145,B0001,Ransomware,Critical,6626019.0,22986654.0,2024-08-27,RESOLVED,Company_145,Technology,Germany,3.47,High Priority,2024,August
+C0130,B0984,Insider Threat,Critical,9025591.0,22978375.0,2025-06-12,UNDER INVESTIGATION,Company_130,Education,USA,2.55,High Priority,2025,June
+C0084,B0048,Phishing,Medium,3171492.0,22891167.0,2024-10-01,UNDER INVESTIGATION,Company_84,Retail,Germany,7.22,Normal,2024,October
+C0118,B0773,SQL Injection,Critical,8143456.0,22850871.0,2025-03-18,RESOLVED,Company_118,Retail,India,2.81,High Priority,2025,March
+C0010,B0275,Phishing,Medium,6233814.0,22849786.0,2024-01-13,UNDER INVESTIGATION,Company_10,Retail,Germany,3.67,Normal,2024,January
+C0070,B0389,SQL Injection,Low,1799636.0,22827789.0,2024-11-13,PENDING,Company_70,Energy,UK,12.68,Normal,2024,November
+C0055,B0863,SQL Injection,High,5382481.0,22738480.0,2025-02-28,UNDER INVESTIGATION,Company_55,Technology,Canada,4.22,Normal,2025,February
+C0034,B0144,DDoS,High,3645561.0,22716556.0,2024-06-19,PENDING,Company_34,Government,Australia,6.23,Normal,2024,June
+C0130,B0434,Insider Threat,Critical,4775874.0,22623529.0,2024-06-04,UNDER INVESTIGATION,Company_130,Education,USA,4.74,High Priority,2024,June
+C0149,B0862,Phishing,Medium,6959665.0,22620402.67,2025-05-18,RESOLVED,Company_149,Healthcare,India,3.25,Normal,2025,May
+C0052,B0590,Insider Threat,Low,2762981.0,22610494.0,2025-07-20,PENDING,Company_52,Education,Japan,8.18,Normal,2025,July
+C0006,B0023,Ransomware,Critical,4912011.0,22538685.0,2024-04-20,PENDING,Company_6,Government,Japan,4.59,High Priority,2024,April
+C0039,B0450,DDoS,Low,5256310.0,22356402.0,2024-10-08,RESOLVED,Company_39,Energy,Canada,4.25,Normal,2024,October
+C0068,B0042,Malware,Low,2029470.0,22344783.0,2024-03-10,RESOLVED,Company_68,Automotive,Canada,11.01,Normal,2024,March
+C0048,B0438,DDoS,High,1009833.0,22333540.0,2024-01-02,PENDING,Company_48,Healthcare,Germany,22.12,Normal,2024,January
+C0003,B0045,SQL Injection,Low,5759827.0,22307674.0,2024-10-26,UNDER INVESTIGATION,Company_3,Energy,UK,3.87,Normal,2024,October
+C0013,B0837,DDoS,Medium,3766666.0,22303473.0,2025-09-04,RESOLVED,Company_13,Energy,UK,5.92,Normal,2025,September
+C0134,B0392,Unknown,Medium,4494376.0,22286472.0,2024-09-10,PENDING,Company_134,Energy,France,4.96,Normal,2024,September
+C0046,B0454,Malware,Low,4177095.0,22197077.0,2024-04-12,RESOLVED,Company_46,Technology,Canada,5.31,Normal,2024,April
+C0025,B0264,Phishing,Low,3145927.0,22168921.0,2024-05-23,UNDER INVESTIGATION,Company_25,Government,UK,7.05,Normal,2024,May
+C0004,B0158,Ransomware,Medium,8430307.0,22161220.0,2024-05-15,UNDER INVESTIGATION,Company_4,Energy,France,2.63,Normal,2024,May
+C0027,B0717,SQL Injection,Critical,5014525.0,22132973.0,2025-09-22,UNDER INVESTIGATION,Company_27,Healthcare,Germany,4.41,High Priority,2025,September
+C0103,B0651,Phishing,High,789348.0,22021358.0,2025-12-21,RESOLVED,Company_103,Education,Germany,27.9,Normal,2025,December
+C0113,B0132,Malware,Low,2791298.0,21948866.0,2024-11-20,PENDING,Company_113,Automotive,Australia,7.86,Normal,2024,November
+C0030,B0338,Ransomware,Critical,2647375.0,21894252.0,2024-12-25,RESOLVED,Company_30,Finance,Japan,8.27,High Priority,2024,December
+C0024,B0297,Ransomware,Low,580135.0,21881815.0,2024-11-23,UNDER INVESTIGATION,Company_24,Technology,Japan,37.72,Normal,2024,November
+C0095,B0185,SQL Injection,High,5437756.0,21846789.0,2024-12-24,UNDER INVESTIGATION,Company_95,Automotive,Germany,4.02,Normal,2024,December
+C0053,B0605,Phishing,Low,5219132.0,21785561.0,2025-11-08,UNDER INVESTIGATION,Company_53,Automotive,Canada,4.17,Normal,2025,November
+C0065,B0555,Insider Threat,High,4866350.0,21729048.0,2025-06-20,UNDER INVESTIGATION,Company_65,Energy,France,4.47,Normal,2025,June
+C0091,B0473,Malware,Critical,5692027.0,21721277.0,2024-11-15,RESOLVED,Company_91,Education,India,3.82,High Priority,2024,November
+C0011,B0324,SQL Injection,High,3555233.0,21606993.0,2024-07-27,UNDER INVESTIGATION,Company_11,Retail,Australia,6.08,Normal,2024,July
+C0031,B0330,SQL Injection,High,8582759.0,21604490.0,2024-11-19,RESOLVED,Company_31,Education,Japan,2.52,Normal,2024,November
+C0047,B0250,Ransomware,Medium,3300229.0,21596083.0,2024-04-14,PENDING,Company_47,Energy,India,6.54,Normal,2024,April
+C0034,B0881,Phishing,High,9137524.0,21521448.0,2025-11-15,PENDING,Company_34,Government,Australia,2.36,Normal,2025,November
+C0065,B0947,Ransomware,Low,8956281.0,21502938.0,2025-04-17,PENDING,Company_65,Energy,France,2.4,Normal,2025,April
+C0091,B0421,SQL Injection,Medium,5037740.0,21493121.0,2024-12-12,UNDER INVESTIGATION,Company_91,Education,India,4.27,Normal,2024,December
+C0126,B0027,Unknown,Medium,6215961.0,21341092.0,2024-02-20,UNDER INVESTIGATION,Company_126,Automotive,Australia,3.43,Normal,2024,February
+C0043,B0715,Insider Threat,Low,6294810.0,21324339.5,2025-06-10,PENDING,Company_43,Retail,Australia,3.39,Normal,2025,June
+C0019,B0282,Insider Threat,High,3901736.0,21292107.0,2024-05-12,PENDING,Company_19,Finance,India,5.46,Normal,2024,May
+C0101,B0558,Unknown,Low,3489597.0,21123758.0,2025-05-14,PENDING,Company_101,Finance,Japan,6.05,Normal,2025,May
+C0120,B0399,Insider Threat,High,4953959.0,21107573.0,2024-09-13,UNDER INVESTIGATION,Company_120,Automotive,USA,4.26,Normal,2024,September
+C0068,B0180,Phishing,High,2690862.0,21091116.0,2024-07-17,PENDING,Company_68,Automotive,Canada,7.84,Normal,2024,July
+C0046,B0744,Phishing,Medium,3718803.0,21057423.0,2025-04-15,RESOLVED,Company_46,Technology,Canada,5.66,Normal,2025,April
+C0065,B0114,SQL Injection,Low,5355304.0,20973718.0,2024-09-06,UNDER INVESTIGATION,Company_65,Energy,France,3.92,Normal,2024,September
+C0040,B0919,SQL Injection,Medium,2184414.0,20901180.0,2025-08-01,RESOLVED,Company_40,Retail,Japan,9.57,Normal,2025,August
+C0150,B0407,Phishing,Low,1694414.0,20894761.0,2024-06-12,PENDING,Company_150,Technology,France,12.33,Normal,2024,June
+C0022,B0902,Insider Threat,High,2593390.0,20862681.0,2025-12-21,RESOLVED,Company_22,Education,Germany,8.04,Normal,2025,December
+C0111,B0872,Insider Threat,Critical,2145072.0,20850594.5,2025-04-05,UNDER INVESTIGATION,Company_111,Education,UK,9.72,High Priority,2025,April
+C0084,B0570,DDoS,Medium,4188223.0,20799828.0,2025-05-06,UNDER INVESTIGATION,Company_84,Retail,Germany,4.97,Normal,2025,May
+C0038,B0718,Insider Threat,High,7942785.0,20760666.0,2025-10-09,UNDER INVESTIGATION,Company_38,Government,Australia,2.61,Normal,2025,October
+C0010,B0710,Insider Threat,Low,7280809.0,20706325.0,2025-08-12,RESOLVED,Company_10,Retail,Germany,2.84,Normal,2025,August
+C0074,B0073,Phishing,Critical,2854093.0,20702253.0,2024-03-18,PENDING,Company_74,Retail,UK,7.25,High Priority,2024,March
+C0018,B0181,Phishing,High,5600167.0,20673721.5,2024-11-25,PENDING,Company_18,Government,Australia,3.69,Normal,2024,November
+C0005,B0414,Ransomware,Low,1254773.0,20671512.5,2024-05-27,UNDER INVESTIGATION,Company_5,Education,Germany,16.47,Normal,2024,May
+C0125,B0134,Malware,Low,9203654.0,20667629.0,2024-08-18,UNDER INVESTIGATION,Company_125,Energy,Japan,2.25,Normal,2024,August
+C0002,B0215,Phishing,Medium,7484737.0,20636230.0,2024-06-10,UNDER INVESTIGATION,Company_2,Retail,India,2.76,Normal,2024,June
+C0044,B0010,Malware,Critical,9674530.0,20566783.5,2024-01-08,UNDER INVESTIGATION,Company_44,Retail,Canada,2.13,High Priority,2024,January
+C0007,B0896,Insider Threat,High,2255376.0,20562461.0,2025-08-25,PENDING,Company_7,Energy,Canada,9.12,Normal,2025,August
+C0020,B0741,SQL Injection,High,9388086.0,20428440.0,2025-08-23,PENDING,Company_20,Automotive,France,2.18,Normal,2025,August
+C0044,B0647,Ransomware,High,7147755.0,20374734.0,2025-11-10,PENDING,Company_44,Retail,Canada,2.85,Normal,2025,November
+C0040,B0025,Malware,Medium,801685.0,20238559.0,2024-12-05,PENDING,Company_40,Retail,Japan,25.25,Normal,2024,December
+C0046,B0267,Malware,High,237906.0,20102771.5,2024-09-07,RESOLVED,Company_46,Technology,Canada,84.5,Normal,2024,September
+C0126,B0259,Malware,Medium,4726298.0,20069845.0,2024-09-06,UNDER INVESTIGATION,Company_126,Automotive,Australia,4.25,Normal,2024,September
+C0023,B0546,Ransomware,Critical,3841864.0,19999376.0,2025-06-08,RESOLVED,Company_23,Automotive,France,5.21,High Priority,2025,June
+C0067,B0641,Phishing,Medium,5153946.0,19928751.0,2025-12-19,PENDING,Company_67,Education,Germany,3.87,Normal,2025,December
+C0140,B0098,Malware,Low,6046544.0,19878288.0,2024-08-05,UNDER INVESTIGATION,Company_140,Technology,France,3.29,Normal,2024,August
+C0150,B0203,DDoS,Critical,2752959.0,19677787.0,2024-10-02,PENDING,Company_150,Technology,France,7.15,High Priority,2024,October
+C0071,B0603,DDoS,Medium,5749667.0,19639804.0,2025-04-23,UNDER INVESTIGATION,Company_71,Technology,India,3.42,Normal,2025,April
+C0077,B0682,Ransomware,Medium,2126835.0,19615200.0,2025-02-20,PENDING,Company_77,Education,India,9.22,Normal,2025,February
+C0115,B0652,DDoS,Low,4482237.0,19614929.0,2025-01-05,RESOLVED,Company_115,Automotive,Germany,4.38,Normal,2025,January
+C0080,B0586,Unknown,High,2316341.0,19586840.0,2025-04-02,RESOLVED,Company_80,Education,France,8.46,Normal,2025,April
+C0124,B0142,Insider Threat,Critical,7530868.0,19550789.0,2024-04-15,UNDER INVESTIGATION,Company_124,Finance,India,2.6,High Priority,2024,April
+C0092,B0654,Malware,High,1650322.0,19518287.0,2025-11-03,RESOLVED,Company_92,Technology,Germany,11.83,Normal,2025,November
+C0058,B0420,Unknown,Critical,5772029.0,19490338.0,2024-02-05,UNDER INVESTIGATION,Company_58,Technology,USA,3.38,High Priority,2024,February
+C0057,B0999,Insider Threat,High,6408446.0,19489784.0,2025-09-01,UNDER INVESTIGATION,Company_57,Technology,USA,3.04,Normal,2025,September
+C0079,B0628,DDoS,Medium,7924304.0,19480346.33,2025-09-19,UNDER INVESTIGATION,Company_79,Government,USA,2.46,Normal,2025,September
+C0048,B0905,Unknown,Critical,3918564.0,19420905.0,2025-10-01,UNDER INVESTIGATION,Company_48,Healthcare,Germany,4.96,High Priority,2025,October
+C0072,B0680,SQL Injection,High,7479287.0,19384800.0,2025-02-27,PENDING,Company_72,Finance,France,2.59,Normal,2025,February
+C0019,B0280,DDoS,High,9878426.0,19360159.0,2024-02-09,RESOLVED,Company_19,Finance,India,1.96,Normal,2024,February
+C0073,B0382,Phishing,Medium,6605919.0,19351834.0,2024-09-15,RESOLVED,Company_73,Finance,USA,2.93,Normal,2024,September
+C0027,B0128,Malware,Low,5775382.0,19312681.0,2024-01-07,RESOLVED,Company_27,Healthcare,Germany,3.34,Normal,2024,January
+C0103,B0111,Phishing,Critical,8571112.0,19231480.33,2024-11-19,RESOLVED,Company_103,Education,Germany,2.24,High Priority,2024,November
+C0079,B0815,DDoS,Medium,3510207.0,19223375.0,2025-07-16,RESOLVED,Company_79,Government,USA,5.48,Normal,2025,July
+C0134,B0232,Phishing,Low,9582122.0,19218184.0,2024-09-18,UNDER INVESTIGATION,Company_134,Energy,France,2.01,Normal,2024,September
+C0116,B0347,Unknown,Critical,8611680.0,19187372.0,2024-01-01,RESOLVED,Company_116,Energy,Japan,2.23,High Priority,2024,January
+C0135,B0378,Malware,Low,2922230.0,19150201.0,2024-03-16,RESOLVED,Company_135,Energy,USA,6.55,Normal,2024,March
+C0055,B0234,Ransomware,High,7596039.0,19044446.0,2024-01-25,UNDER INVESTIGATION,Company_55,Technology,Canada,2.51,Normal,2024,January
+C0118,B0149,Phishing,Medium,1206514.0,18932806.0,2024-10-19,RESOLVED,Company_118,Retail,India,15.69,Normal,2024,October
+C0118,B0100,Malware,Critical,6543424.0,18925671.0,2024-03-13,UNDER INVESTIGATION,Company_118,Retail,India,2.89,High Priority,2024,March
+C0059,B0461,DDoS,High,1486760.0,18860543.0,2024-03-24,RESOLVED,Company_59,Energy,USA,12.69,Normal,2024,March
+C0138,B0006,Unknown,Critical,4756756.0,18843993.0,2024-08-11,RESOLVED,Company_138,Retail,USA,3.96,High Priority,2024,August
+C0067,B0057,DDoS,High,9038181.0,18797913.0,2024-08-19,PENDING,Company_67,Education,Germany,2.08,Normal,2024,August
+C0104,B0626,Malware,High,7188510.0,18707249.0,2025-11-10,RESOLVED,Company_104,Healthcare,France,2.6,Normal,2025,November
+C0075,B0481,SQL Injection,Critical,5594833.0,18703119.0,2024-05-11,PENDING,Company_75,Retail,Germany,3.34,High Priority,2024,May
+C0027,B0070,Insider Threat,Low,2862699.0,18677487.67,2024-09-18,RESOLVED,Company_27,Healthcare,Germany,6.52,Normal,2024,September
+C0014,B0564,Insider Threat,High,4809054.0,18627094.0,2025-02-25,RESOLVED,Company_14,Energy,Japan,3.87,Normal,2025,February
+C0119,B0223,DDoS,Medium,4552432.0,18604208.0,2024-08-09,UNDER INVESTIGATION,Company_119,Automotive,Canada,4.09,Normal,2024,August
+C0082,B0948,Insider Threat,High,3859970.0,18551179.0,2025-01-15,UNDER INVESTIGATION,Company_82,Government,France,4.81,Normal,2025,January
+C0097,B0539,Phishing,Critical,5288954.0,18541849.0,2025-03-23,RESOLVED,Company_97,Finance,Japan,3.51,High Priority,2025,March
+C0107,B0670,Phishing,Medium,7813965.0,18479545.0,2025-02-23,RESOLVED,Company_107,Technology,Germany,2.36,Normal,2025,February
+C0069,B0339,SQL Injection,Medium,8160094.0,18314849.0,2024-04-05,UNDER INVESTIGATION,Company_69,Education,Australia,2.24,Normal,2024,April
+C0056,B0764,Unknown,Low,5549052.0,18233079.0,2025-12-24,RESOLVED,Company_56,Energy,France,3.29,Normal,2025,December
+C0129,B0799,Phishing,Medium,5054135.0,18166669.0,2025-01-21,PENDING,Company_129,Government,Canada,3.59,Normal,2025,January
+C0054,B0030,DDoS,Medium,4377799.0,18136791.33,2024-09-17,UNDER INVESTIGATION,Company_54,Automotive,USA,4.14,Normal,2024,September
+C0127,B0486,Insider Threat,Critical,3014334.0,18136414.0,2024-07-26,PENDING,Company_127,Automotive,Canada,6.02,High Priority,2024,July
+C0014,B0251,Ransomware,Critical,6425582.0,18099472.33,2024-10-19,RESOLVED,Company_14,Energy,Japan,2.82,High Priority,2024,October
+C0083,B0706,Malware,Critical,9701643.0,18031269.0,2025-09-26,UNDER INVESTIGATION,Company_83,Technology,India,1.86,High Priority,2025,September
+C0052,B0147,SQL Injection,High,5936550.0,18004840.0,2024-05-24,UNDER INVESTIGATION,Company_52,Education,Japan,3.03,Normal,2024,May
+C0029,B0876,DDoS,Medium,4182025.0,17989131.0,2025-10-27,UNDER INVESTIGATION,Company_29,Healthcare,USA,4.3,Normal,2025,October
+C0084,B0592,Ransomware,High,6105758.0,17950716.0,2025-05-09,UNDER INVESTIGATION,Company_84,Retail,Germany,2.94,Normal,2025,May
+C0055,B0780,DDoS,High,7785698.0,17916776.0,2025-12-09,PENDING,Company_55,Technology,Canada,2.3,Normal,2025,December
+C0029,B0821,Phishing,High,2547276.0,17892935.0,2025-11-13,PENDING,Company_29,Healthcare,USA,7.02,Normal,2025,November
+C0050,B0782,Unknown,High,7020276.0,17886423.0,2025-03-09,RESOLVED,Company_50,Education,Australia,2.55,Normal,2025,March
+C0011,B0938,Unknown,Critical,3793740.0,17862839.0,2025-08-24,PENDING,Company_11,Retail,Australia,4.71,High Priority,2025,August
+C0049,B0056,Insider Threat,High,8643892.0,17840732.0,2024-09-23,UNDER INVESTIGATION,Company_49,Technology,Canada,2.06,Normal,2024,September
+C0118,B0830,Ransomware,High,4173077.0,17777537.0,2025-12-07,UNDER INVESTIGATION,Company_118,Retail,India,4.26,Normal,2025,December
+C0150,B0691,DDoS,Medium,9418807.0,17770368.5,2025-02-26,UNDER INVESTIGATION,Company_150,Technology,France,1.89,Normal,2025,February
+C0147,B0388,Malware,Critical,9230745.0,17691311.0,2024-06-20,PENDING,Company_147,Technology,UK,1.92,High Priority,2024,June
+C0060,B0698,Unknown,Medium,6021368.0,17663676.0,2025-06-08,PENDING,Company_60,Retail,France,2.93,Normal,2025,June
+C0060,B0854,Insider Threat,Critical,5673534.0,17636744.0,2025-01-28,UNDER INVESTIGATION,Company_60,Retail,France,3.11,High Priority,2025,January
+C0004,B0184,DDoS,Medium,4092497.0,17596095.0,2024-09-16,UNDER INVESTIGATION,Company_4,Energy,France,4.3,Normal,2024,September
+C0011,B0759,DDoS,Medium,5932283.0,17553360.0,2025-11-15,PENDING,Company_11,Retail,Australia,2.96,Normal,2025,November
+C0104,B0400,Insider Threat,Medium,6157158.0,17398979.0,2024-10-13,RESOLVED,Company_104,Healthcare,France,2.83,Normal,2024,October
+C0055,B0866,Phishing,Critical,2890365.0,17382836.0,2025-01-17,PENDING,Company_55,Technology,Canada,6.01,High Priority,2025,January
+C0105,B0856,Malware,Low,3714322.0,17371895.0,2025-11-09,UNDER INVESTIGATION,Company_105,Retail,Germany,4.68,Normal,2025,November
+C0096,B0943,Ransomware,High,9445311.0,17269482.0,2025-07-15,RESOLVED,Company_96,Education,Germany,1.83,Normal,2025,July
+C0082,B0430,Phishing,Medium,9314657.0,17266138.67,2024-10-19,RESOLVED,Company_82,Government,France,1.85,Normal,2024,October
+C0067,B0040,DDoS,Medium,8927173.0,17263225.0,2024-06-25,UNDER INVESTIGATION,Company_67,Education,Germany,1.93,Normal,2024,June
+C0142,B0355,Unknown,High,9131655.0,17155961.0,2024-06-10,RESOLVED,Company_142,Energy,France,1.88,Normal,2024,June
+C0070,B0727,Ransomware,Low,5207234.0,17092186.0,2025-01-14,RESOLVED,Company_70,Energy,UK,3.28,Normal,2025,January
+C0083,B0060,Unknown,High,3727130.0,17035865.0,2024-06-18,UNDER INVESTIGATION,Company_83,Technology,India,4.57,Normal,2024,June
+C0123,B0614,DDoS,Low,1485309.0,16989897.0,2025-07-20,PENDING,Company_123,Retail,India,11.44,Normal,2025,July
+C0144,B0595,Phishing,Critical,1356783.0,16924836.0,2025-10-05,UNDER INVESTIGATION,Company_144,Energy,Japan,12.47,High Priority,2025,October
+C0048,B0828,Phishing,Critical,4885018.0,16914835.0,2025-10-02,RESOLVED,Company_48,Healthcare,Germany,3.46,High Priority,2025,October
+C0004,B0941,Ransomware,High,9115296.0,16913643.0,2025-02-26,RESOLVED,Company_4,Energy,France,1.86,Normal,2025,February
+C0039,B0329,DDoS,Low,8559465.0,16858470.67,2024-11-19,UNDER INVESTIGATION,Company_39,Energy,Canada,1.97,Normal,2024,November
+C0122,B0768,Phishing,Critical,7263919.0,16852812.0,2025-08-15,UNDER INVESTIGATION,Company_122,Energy,Germany,2.32,High Priority,2025,August
+C0024,B0507,SQL Injection,Critical,3829963.0,16835793.0,2025-07-20,UNDER INVESTIGATION,Company_24,Technology,Japan,4.4,High Priority,2025,July
+C0024,B0725,Phishing,Critical,1740219.0,16761199.0,2025-02-13,RESOLVED,Company_24,Technology,Japan,9.63,High Priority,2025,February
+C0066,B0736,DDoS,Medium,1412801.0,16710978.0,2025-01-14,UNDER INVESTIGATION,Company_66,Energy,USA,11.83,Normal,2025,January
+C0131,B0772,Malware,Critical,4008782.0,16679240.0,2025-07-10,RESOLVED,Company_131,Energy,Canada,4.16,High Priority,2025,July
+C0087,B0244,Phishing,Low,9881838.0,16603673.0,2024-02-03,PENDING,Company_87,Energy,USA,1.68,Normal,2024,February
+C0082,B0923,Insider Threat,Low,851599.0,16528867.0,2025-07-20,PENDING,Company_82,Government,France,19.41,Normal,2025,July
+C0052,B0809,Ransomware,Critical,1331580.0,16473487.0,2025-09-16,RESOLVED,Company_52,Education,Japan,12.37,High Priority,2025,September
+C0131,B0774,DDoS,Critical,3679490.0,16441430.0,2025-07-22,PENDING,Company_131,Energy,Canada,4.47,High Priority,2025,July
+C0040,B0051,SQL Injection,Critical,8363600.0,16432805.0,2024-10-20,RESOLVED,Company_40,Retail,Japan,1.96,High Priority,2024,October
+C0074,B0307,Insider Threat,Low,1893315.0,16398084.0,2024-02-12,RESOLVED,Company_74,Retail,UK,8.66,Normal,2024,February
+C0020,B0469,DDoS,Medium,9369126.0,16358384.0,2024-08-18,UNDER INVESTIGATION,Company_20,Automotive,France,1.75,Normal,2024,August
+C0111,B0429,Unknown,Low,1666114.0,16327739.0,2024-10-23,UNDER INVESTIGATION,Company_111,Education,UK,9.8,Normal,2024,October
+C0097,B0563,Insider Threat,Critical,7351715.0,16219162.0,2025-08-21,RESOLVED,Company_97,Finance,Japan,2.21,High Priority,2025,August
+C0051,B0879,Phishing,Critical,2082280.0,16189708.0,2025-01-27,PENDING,Company_51,Education,India,7.77,High Priority,2025,January
+C0080,B0224,Phishing,Medium,8297140.0,16024129.0,2024-07-24,UNDER INVESTIGATION,Company_80,Education,France,1.93,Normal,2024,July
+C0138,B0361,Phishing,High,3642812.0,15886385.0,2024-10-11,PENDING,Company_138,Retail,USA,4.36,Normal,2024,October
+C0139,B0273,Ransomware,Critical,1167408.0,15872029.0,2024-07-28,RESOLVED,Company_139,Government,France,13.6,High Priority,2024,July
+C0024,B0117,Malware,Medium,96663.0,15850853.5,2024-02-25,RESOLVED,Company_24,Technology,Japan,163.98,Normal,2024,February
+C0144,B0426,Malware,High,5959528.0,15561535.0,2024-12-28,PENDING,Company_144,Energy,Japan,2.61,Normal,2024,December
+C0131,B0993,Phishing,Low,146998.0,15556733.0,2025-04-03,PENDING,Company_131,Energy,Canada,105.83,Normal,2025,April
+C0123,B0888,Phishing,Critical,959711.0,15517575.0,2025-07-01,UNDER INVESTIGATION,Company_123,Retail,India,16.17,High Priority,2025,July
+C0017,B0310,SQL Injection,High,4759761.0,15475235.0,2024-01-24,PENDING,Company_17,Technology,Canada,3.25,Normal,2024,January
+C0033,B0587,Malware,Critical,593772.0,15307251.0,2025-12-10,RESOLVED,Company_33,Government,Japan,25.78,High Priority,2025,December
+C0002,B0650,SQL Injection,Critical,5833373.0,15275795.0,2025-06-05,PENDING,Company_2,Retail,India,2.62,High Priority,2025,June
+C0023,B0662,SQL Injection,Low,424225.0,15129813.5,2025-09-18,RESOLVED,Company_23,Automotive,France,35.66,Normal,2025,September
+C0147,B0845,Ransomware,Medium,4066848.0,15119956.0,2025-03-24,RESOLVED,Company_147,Technology,UK,3.72,Normal,2025,March
+C0147,B0291,Ransomware,Critical,7868698.0,15082610.0,2024-07-14,UNDER INVESTIGATION,Company_147,Technology,UK,1.92,High Priority,2024,July
+C0106,B0088,SQL Injection,High,5050141.0,15073338.0,2024-04-11,RESOLVED,Company_106,Retail,Canada,2.98,Normal,2024,April
+C0085,B0447,Insider Threat,High,8471573.0,15073053.0,2024-07-28,RESOLVED,Company_85,Education,USA,1.78,Normal,2024,July
+C0050,B0221,Ransomware,High,6601766.0,15002783.0,2024-01-24,UNDER INVESTIGATION,Company_50,Education,Australia,2.27,Normal,2024,January
+C0037,B0655,Phishing,Medium,6679871.0,14996554.0,2025-05-08,PENDING,Company_37,Healthcare,Germany,2.25,Normal,2025,May
+C0021,B0664,Phishing,Low,1743531.0,14964405.0,2025-05-15,PENDING,Company_21,Technology,Australia,8.58,Normal,2025,May
+C0022,B0038,Ransomware,Low,8647344.0,14955512.0,2024-06-07,PENDING,Company_22,Education,Germany,1.73,Normal,2024,June
+C0134,B0298,Insider Threat,Critical,6206575.0,14949197.0,2024-12-05,UNDER INVESTIGATION,Company_134,Energy,France,2.41,High Priority,2024,December
+C0036,B0370,Insider Threat,Low,7398694.0,14849151.0,2024-10-15,PENDING,Company_36,Finance,India,2.01,Normal,2024,October
+C0043,B0891,Malware,Low,72233.0,14720859.0,2025-06-10,PENDING,Company_43,Retail,Australia,203.8,Normal,2025,June
+C0022,B0675,Malware,Medium,7093690.0,14693121.0,2025-06-08,PENDING,Company_22,Education,Germany,2.07,Normal,2025,June
+C0096,B0395,Phishing,High,3881187.0,14673978.0,2024-06-13,UNDER INVESTIGATION,Company_96,Education,Germany,3.78,Normal,2024,June
+C0053,B0084,DDoS,Critical,7994040.0,14651721.0,2024-10-13,PENDING,Company_53,Automotive,Canada,1.83,High Priority,2024,October
+C0078,B0087,Insider Threat,Medium,4697469.0,14572584.0,2024-03-27,RESOLVED,Company_78,Healthcare,France,3.1,Normal,2024,March
+C0092,B0478,Insider Threat,Critical,5171811.0,14535303.0,2024-07-16,PENDING,Company_92,Technology,Germany,2.81,High Priority,2024,July
+C0072,B0632,Malware,Critical,5174088.0,14488446.0,2025-10-10,UNDER INVESTIGATION,Company_72,Finance,France,2.8,High Priority,2025,October
+C0117,B0228,Ransomware,Medium,1783189.0,14485461.0,2024-11-19,UNDER INVESTIGATION,Company_117,Energy,France,8.12,Normal,2024,November
+C0131,B0886,Phishing,Critical,5155338.0,14462189.0,2025-06-28,RESOLVED,Company_131,Energy,Canada,2.81,High Priority,2025,June
+C0028,B0160,Malware,Medium,1628434.0,14447460.0,2024-05-27,RESOLVED,Company_28,Education,UK,8.87,Normal,2024,May
+C0108,B0383,Ransomware,Low,4339352.0,14308562.0,2024-03-24,RESOLVED,Company_108,Automotive,Canada,3.3,Normal,2024,March
+C0007,B0305,Insider Threat,Low,9498550.0,14272928.0,2024-02-08,UNDER INVESTIGATION,Company_7,Energy,Canada,1.5,Normal,2024,February
+C0094,B0690,Unknown,Critical,519526.0,14253237.0,2025-08-10,PENDING,Company_94,Automotive,USA,27.44,High Priority,2025,August
+C0009,B0484,Insider Threat,Medium,2904829.0,14248764.0,2024-06-07,UNDER INVESTIGATION,Company_9,Automotive,France,4.91,Normal,2024,June
+C0059,B0306,Phishing,Low,7758770.0,14223048.0,2024-07-16,PENDING,Company_59,Energy,USA,1.83,Normal,2024,July
+C0023,B0220,Malware,High,6679621.0,14221489.0,2024-10-15,UNDER INVESTIGATION,Company_23,Automotive,France,2.13,Normal,2024,October
+C0073,B0410,Insider Threat,High,2985401.0,14213266.0,2024-02-11,PENDING,Company_73,Finance,USA,4.76,Normal,2024,February
+C0023,B0054,DDoS,Medium,6566879.0,14210028.0,2024-06-25,PENDING,Company_23,Automotive,France,2.16,Normal,2024,June
+C0040,B0470,Malware,Medium,9919293.0,14188577.0,2024-08-07,PENDING,Company_40,Retail,Japan,1.43,Normal,2024,August
+C0135,B0922,Unknown,Critical,353616.0,14177420.0,2025-02-21,RESOLVED,Company_135,Energy,USA,40.09,High Priority,2025,February
+C0061,B0034,Ransomware,High,1033113.0,14075608.5,2024-11-20,UNDER INVESTIGATION,Company_61,Retail,UK,13.62,Normal,2024,November
+C0089,B0154,Ransomware,Medium,4206585.0,14053069.0,2024-06-26,UNDER INVESTIGATION,Company_89,Energy,Australia,3.34,Normal,2024,June
+C0114,B0887,DDoS,Critical,1359915.0,13971665.0,2025-04-17,UNDER INVESTIGATION,Company_114,Automotive,India,10.27,High Priority,2025,April
+C0126,B0044,Unknown,Medium,5211508.0,13934574.0,2024-06-04,PENDING,Company_126,Automotive,Australia,2.67,Normal,2024,June
+C0067,B0457,DDoS,Critical,6904324.0,13910793.0,2024-07-16,PENDING,Company_67,Education,Germany,2.01,High Priority,2024,July
+C0014,B0714,SQL Injection,High,2559955.0,13865471.0,2025-03-14,PENDING,Company_14,Energy,Japan,5.42,Normal,2025,March
+C0115,B0512,SQL Injection,Critical,4211840.0,13803016.0,2025-10-23,PENDING,Company_115,Automotive,Germany,3.28,High Priority,2025,October
+C0123,B0460,Unknown,Low,7419407.0,13770341.0,2024-10-21,PENDING,Company_123,Retail,India,1.86,Normal,2024,October
+C0089,B0341,DDoS,Medium,4837938.0,13680670.0,2024-01-16,UNDER INVESTIGATION,Company_89,Energy,Australia,2.83,Normal,2024,January
+C0120,B0789,SQL Injection,Low,2102754.0,13679545.0,2025-08-03,RESOLVED,Company_120,Automotive,USA,6.51,Normal,2025,August
+C0044,B0231,Phishing,Low,283037.0,13665756.0,2024-11-20,RESOLVED,Company_44,Retail,Canada,48.28,Normal,2024,November
+C0093,B0091,Phishing,Critical,3679772.0,13627056.0,2024-05-19,RESOLVED,Company_93,Healthcare,India,3.7,High Priority,2024,May
+C0050,B0328,Phishing,Medium,5154588.0,13618389.0,2024-09-11,RESOLVED,Company_50,Education,Australia,2.64,Normal,2024,September
+C0140,B0217,Insider Threat,Medium,479049.0,13542016.0,2024-06-06,PENDING,Company_140,Technology,France,28.27,Normal,2024,June
+C0066,B0988,Phishing,High,5591344.0,13522563.5,2025-09-02,RESOLVED,Company_66,Energy,USA,2.42,Normal,2025,September
+C0093,B0818,Malware,Low,216219.0,13510176.0,2025-03-14,RESOLVED,Company_93,Healthcare,India,62.48,Normal,2025,March
+C0098,B0357,DDoS,Low,3289669.0,13497056.0,2024-11-05,RESOLVED,Company_98,Energy,France,4.1,Normal,2024,November
+C0056,B0156,DDoS,High,3438551.0,13491638.0,2024-05-05,PENDING,Company_56,Energy,France,3.92,Normal,2024,May
+C0026,B0925,Malware,Medium,4493878.0,13482911.0,2025-05-03,PENDING,Company_26,Finance,Japan,3.0,Normal,2025,May
+C0053,B0521,SQL Injection,Medium,9227748.0,13395315.0,2025-04-22,PENDING,Company_53,Automotive,Canada,1.45,Normal,2025,April
+C0063,B0798,Insider Threat,Low,3921177.0,13351685.0,2025-09-09,RESOLVED,Company_63,Healthcare,UK,3.41,Normal,2025,September
+C0024,B0252,Ransomware,Low,5442484.0,13227494.0,2024-11-07,PENDING,Company_24,Technology,Japan,2.43,Normal,2024,November
+C0083,B0754,Phishing,High,5282761.0,13157177.0,2025-06-25,RESOLVED,Company_83,Technology,India,2.49,Normal,2025,June
+C0091,B0701,Ransomware,Low,2459194.0,13144175.0,2025-01-07,RESOLVED,Company_91,Education,India,5.34,Normal,2025,January
+C0004,B0958,Malware,High,7188411.0,13139378.0,2025-07-02,PENDING,Company_4,Energy,France,1.83,Normal,2025,July
+C0116,B0921,Malware,Low,5619384.0,12956470.0,2025-08-19,RESOLVED,Company_116,Energy,Japan,2.31,Normal,2025,August
+C0052,B0261,SQL Injection,Critical,2172474.0,12755124.5,2024-05-12,RESOLVED,Company_52,Education,Japan,5.87,High Priority,2024,May
+C0111,B0016,Malware,Low,3738662.0,12511481.0,2024-04-13,RESOLVED,Company_111,Education,UK,3.35,Normal,2024,April
+C0051,B0487,SQL Injection,Low,2262665.0,12498033.0,2024-12-21,PENDING,Company_51,Education,India,5.52,Normal,2024,December
+C0050,B0952,Malware,High,9279967.0,12463635.0,2025-07-17,PENDING,Company_50,Education,Australia,1.34,Normal,2025,July
+C0131,B0516,DDoS,High,3309929.0,12419069.0,2025-02-21,PENDING,Company_131,Energy,Canada,3.75,Normal,2025,February
+C0107,B0975,Insider Threat,Critical,6632429.0,12404279.0,2025-05-23,RESOLVED,Company_107,Technology,Germany,1.87,High Priority,2025,May
+C0142,B0143,DDoS,Medium,5115385.0,12374272.0,2024-08-28,UNDER INVESTIGATION,Company_142,Energy,France,2.42,Normal,2024,August
+C0047,B0612,Insider Threat,High,3694766.0,12266406.5,2025-12-23,RESOLVED,Company_47,Energy,India,3.32,Normal,2025,December
+C0110,B0527,Malware,Critical,2354220.0,12257120.0,2025-01-16,UNDER INVESTIGATION,Company_110,Retail,India,5.21,High Priority,2025,January
+C0022,B0927,Malware,Low,1099982.0,12241734.67,2025-09-19,PENDING,Company_22,Education,Germany,11.13,Normal,2025,September
+C0093,B0182,Phishing,Critical,6217412.0,12215014.0,2024-01-08,PENDING,Company_93,Healthcare,India,1.96,High Priority,2024,January
+C0041,B0322,SQL Injection,High,4905374.0,12206423.0,2024-10-28,RESOLVED,Company_41,Energy,Canada,2.49,Normal,2024,October
+C0071,B0648,Ransomware,High,7694268.0,12155711.0,2025-09-01,PENDING,Company_71,Technology,India,1.58,Normal,2025,September
+C0060,B0074,Ransomware,High,5967512.0,12147671.0,2024-08-27,UNDER INVESTIGATION,Company_60,Retail,France,2.04,Normal,2024,August
+C0075,B0665,SQL Injection,Critical,1728776.0,12143556.0,2025-12-06,PENDING,Company_75,Retail,Germany,7.02,High Priority,2025,December
+C0024,B0012,Phishing,Low,773257.0,12132296.0,2024-04-03,UNDER INVESTIGATION,Company_24,Technology,Japan,15.69,Normal,2024,April
+C0132,B0300,Malware,Critical,1100224.0,12122473.0,2024-09-22,PENDING,Company_132,Education,USA,11.02,High Priority,2024,September
+C0026,B0428,Malware,High,9455310.0,12067199.0,2024-01-02,UNDER INVESTIGATION,Company_26,Finance,Japan,1.28,Normal,2024,January
+C0002,B0753,Phishing,Medium,8774447.0,12051364.0,2025-09-26,UNDER INVESTIGATION,Company_2,Retail,India,1.37,Normal,2025,September
+C0038,B0843,Insider Threat,Critical,8421906.0,11989116.0,2025-04-14,RESOLVED,Company_38,Government,Australia,1.42,High Priority,2025,April
+C0108,B0631,Unknown,High,4578285.0,11967434.0,2025-05-09,PENDING,Company_108,Automotive,Canada,2.61,Normal,2025,May
+C0062,B0336,Phishing,Critical,8968620.0,11867464.0,2024-06-28,RESOLVED,Company_62,Automotive,Japan,1.32,High Priority,2024,June
+C0094,B0532,Malware,Medium,7121270.0,11798115.0,2025-07-23,UNDER INVESTIGATION,Company_94,Automotive,USA,1.66,Normal,2025,July
+C0134,B0819,Ransomware,High,6347165.0,11699050.0,2025-09-10,UNDER INVESTIGATION,Company_134,Energy,France,1.84,Normal,2025,September
+C0105,B0880,Malware,Critical,3431702.0,11698063.0,2025-03-26,RESOLVED,Company_105,Retail,Germany,3.41,High Priority,2025,March
+C0110,B0253,Insider Threat,Low,7491084.0,11596874.0,2024-07-25,RESOLVED,Company_110,Retail,India,1.55,Normal,2024,July
+C0023,B0624,SQL Injection,Medium,9693015.0,11567995.0,2025-10-03,RESOLVED,Company_23,Automotive,France,1.19,Normal,2025,October
+C0118,B0578,Phishing,Critical,7637766.0,11410411.0,2025-09-11,RESOLVED,Company_118,Retail,India,1.49,High Priority,2025,September
+C0046,B0951,Ransomware,High,1577684.0,11407626.33,2025-05-18,UNDER INVESTIGATION,Company_46,Technology,Canada,7.23,Normal,2025,May
+C0095,B0930,Ransomware,High,8735860.0,11385000.0,2025-03-13,RESOLVED,Company_95,Automotive,Germany,1.3,Normal,2025,March
+C0086,B0452,Insider Threat,Low,9118673.0,11295850.0,2024-02-08,UNDER INVESTIGATION,Company_86,Healthcare,Japan,1.24,Normal,2024,February
+C0150,B0037,SQL Injection,Critical,6557646.0,11253930.0,2024-05-04,PENDING,Company_150,Technology,France,1.72,High Priority,2024,May
+C0069,B0062,Ransomware,Medium,3191662.0,11211769.25,2024-11-05,UNDER INVESTIGATION,Company_69,Education,Australia,3.51,Normal,2024,November
+C0127,B0274,DDoS,Critical,9855575.0,11165226.0,2024-09-02,UNDER INVESTIGATION,Company_127,Automotive,Canada,1.13,High Priority,2024,September
+C0102,B0657,Unknown,Critical,57891.0,11160991.0,2025-08-07,PENDING,Company_102,Technology,Australia,192.79,High Priority,2025,August
+C0022,B0737,DDoS,Low,180749.0,11151864.0,2025-04-22,RESOLVED,Company_22,Education,Germany,61.7,Normal,2025,April
+C0058,B0008,Ransomware,Critical,4419734.0,11103557.0,2024-11-01,RESOLVED,Company_58,Technology,USA,2.51,High Priority,2024,November
+C0068,B0246,Malware,Critical,7412542.0,10962357.0,2024-10-20,RESOLVED,Company_68,Automotive,Canada,1.48,High Priority,2024,October
+C0056,B0634,Malware,Medium,9048716.0,10902210.0,2025-09-18,RESOLVED,Company_56,Energy,France,1.2,Normal,2025,September
+C0101,B0129,Malware,High,3028744.0,10738482.0,2024-01-21,UNDER INVESTIGATION,Company_101,Finance,Japan,3.55,Normal,2024,January
+C0045,B0811,Malware,Low,4335047.0,10736401.0,2025-10-27,PENDING,Company_45,Retail,India,2.48,Normal,2025,October
+C0018,B0061,Insider Threat,Critical,3012434.0,10640783.0,2024-06-27,PENDING,Company_18,Government,Australia,3.53,High Priority,2024,June
+C0069,B0081,DDoS,Critical,3003879.0,10574343.0,2024-01-13,RESOLVED,Company_69,Education,Australia,3.52,High Priority,2024,January
+C0081,B0493,DDoS,Critical,3922875.0,10571798.0,2024-12-11,PENDING,Company_81,Healthcare,UK,2.69,High Priority,2024,December
+C0083,B0068,Malware,High,6036789.0,10559452.0,2024-10-17,UNDER INVESTIGATION,Company_83,Technology,India,1.75,Normal,2024,October
+C0012,B0236,Insider Threat,High,3711219.0,10552219.0,2024-12-12,UNDER INVESTIGATION,Company_12,Energy,UK,2.84,Normal,2024,December
+C0016,B0550,Unknown,Critical,5893257.0,10552004.0,2025-05-07,RESOLVED,Company_16,Automotive,India,1.79,High Priority,2025,May
+C0101,B0477,SQL Injection,Critical,9163869.0,10493742.0,2024-09-08,RESOLVED,Company_101,Finance,Japan,1.15,High Priority,2024,September
+C0042,B0405,SQL Injection,Low,8699290.0,10350902.0,2024-03-02,UNDER INVESTIGATION,Company_42,Technology,Germany,1.19,Normal,2024,March
+C0043,B0970,DDoS,High,7223880.0,10336642.0,2025-02-17,PENDING,Company_43,Retail,Australia,1.43,Normal,2025,February
+C0007,B0371,Ransomware,Low,4829232.0,10285767.0,2024-05-23,RESOLVED,Company_7,Energy,Canada,2.13,Normal,2024,May
+C0135,B0669,SQL Injection,Critical,5709260.0,10120861.0,2025-03-04,PENDING,Company_135,Energy,USA,1.77,High Priority,2025,March
+C0131,B0209,Malware,High,4481141.0,10104652.0,2024-10-20,RESOLVED,Company_131,Energy,Canada,2.25,Normal,2024,October
+C0017,B0540,Phishing,Critical,942849.0,10090992.0,2025-09-06,UNDER INVESTIGATION,Company_17,Technology,Canada,10.7,High Priority,2025,September
+C0052,B0003,DDoS,High,9998270.0,9762702.0,2024-07-26,UNDER INVESTIGATION,Company_52,Education,Japan,0.98,Normal,2024,July
+C0093,B0526,SQL Injection,Low,7850698.0,9729611.0,2025-03-01,UNDER INVESTIGATION,Company_93,Healthcare,India,1.24,Normal,2025,March
+C0025,B0851,Malware,Low,4349842.0,9688339.0,2025-07-18,UNDER INVESTIGATION,Company_25,Government,UK,2.23,Normal,2025,July
+C0035,B0200,DDoS,Critical,2458162.0,9673184.0,2024-11-14,PENDING,Company_35,Automotive,France,3.94,High Priority,2024,November
+C0110,B0583,Ransomware,Medium,7825640.0,9657199.0,2025-05-26,PENDING,Company_110,Retail,India,1.23,Normal,2025,May
+C0030,B0793,Phishing,High,4845985.0,9621352.0,2025-02-04,UNDER INVESTIGATION,Company_30,Finance,Japan,1.99,Normal,2025,February
+C0051,B0153,SQL Injection,High,375127.0,9595635.0,2024-03-09,RESOLVED,Company_51,Education,India,25.58,Normal,2024,March
+C0129,B0466,Ransomware,Medium,5229333.0,9592093.0,2024-09-10,UNDER INVESTIGATION,Company_129,Government,Canada,1.83,Normal,2024,September
+C0139,B0974,DDoS,Low,1222680.0,9406421.0,2025-12-26,RESOLVED,Company_139,Government,France,7.69,Normal,2025,December
+C0021,B0779,DDoS,High,7866583.0,9324139.0,2025-09-10,UNDER INVESTIGATION,Company_21,Technology,Australia,1.19,Normal,2025,September
+C0001,B0321,Insider Threat,Medium,7479965.0,9321341.0,2024-07-01,UNDER INVESTIGATION,Company_1,Government,Japan,1.25,Normal,2024,July
+C0088,B0448,Malware,Critical,3387676.0,9285865.0,2024-11-06,RESOLVED,Company_88,Healthcare,France,2.74,High Priority,2024,November
+C0011,B0769,Phishing,Critical,9472083.0,9268764.0,2025-11-04,PENDING,Company_11,Retail,Australia,0.98,High Priority,2025,November
+C0135,B0757,Unknown,High,1344517.0,9262659.0,2025-05-14,UNDER INVESTIGATION,Company_135,Energy,USA,6.89,Normal,2025,May
+C0042,B0826,SQL Injection,Critical,5090766.0,9244812.5,2025-10-02,UNDER INVESTIGATION,Company_42,Technology,Germany,1.82,High Priority,2025,October
+C0004,B0058,Malware,Medium,425094.0,9114322.0,2024-11-18,PENDING,Company_4,Energy,France,21.44,Normal,2024,November
+C0127,B0749,Ransomware,Critical,3111261.0,9054683.0,2025-07-05,UNDER INVESTIGATION,Company_127,Automotive,Canada,2.91,High Priority,2025,July
+C0062,B0384,Phishing,Low,2531780.0,8926482.5,2024-11-04,PENDING,Company_62,Automotive,Japan,3.53,Normal,2024,November
+C0051,B0579,Ransomware,High,9685059.0,8857550.0,2025-06-23,UNDER INVESTIGATION,Company_51,Education,India,0.91,Normal,2025,June
+C0084,B0894,Malware,Medium,6190663.0,8720191.0,2025-06-04,PENDING,Company_84,Retail,Germany,1.41,Normal,2025,June
+C0058,B0352,SQL Injection,Critical,7523394.0,8697447.0,2024-02-23,UNDER INVESTIGATION,Company_58,Technology,USA,1.16,High Priority,2024,February
+C0056,B0696,SQL Injection,Critical,2598625.0,8630046.0,2025-10-21,UNDER INVESTIGATION,Company_56,Energy,France,3.32,High Priority,2025,October
+C0028,B0423,Malware,Critical,8918757.0,8563999.0,2024-10-24,RESOLVED,Company_28,Education,UK,0.96,High Priority,2024,October
+C0033,B0116,Malware,High,5673569.0,8318772.0,2024-02-07,RESOLVED,Company_33,Government,Japan,1.47,Normal,2024,February
+C0103,B0997,Ransomware,High,6136399.0,8317317.5,2025-11-04,RESOLVED,Company_103,Education,Germany,1.36,Normal,2025,November
+C0006,B0580,DDoS,High,7784742.0,8308065.0,2025-02-01,RESOLVED,Company_6,Government,Japan,1.07,Normal,2025,February
+C0069,B0874,Ransomware,Low,4504716.0,8276170.0,2025-03-27,PENDING,Company_69,Education,Australia,1.84,Normal,2025,March
+C0038,B0858,SQL Injection,Critical,2772737.0,8181538.0,2025-11-13,UNDER INVESTIGATION,Company_38,Government,Australia,2.95,High Priority,2025,November
+C0142,B0658,Malware,Low,9379448.0,8132048.0,2025-04-24,PENDING,Company_142,Energy,France,0.87,Normal,2025,April
+C0026,B0901,Malware,Critical,9119633.0,8084547.0,2025-02-02,RESOLVED,Company_26,Finance,Japan,0.89,High Priority,2025,February
+C0069,B0694,Unknown,Critical,9297102.0,7968817.0,2025-02-07,PENDING,Company_69,Education,Australia,0.86,High Priority,2025,February
+C0139,B0674,DDoS,Low,7148199.0,7946983.0,2025-06-25,PENDING,Company_139,Government,France,1.11,Normal,2025,June
+C0042,B0702,SQL Injection,Medium,9713249.0,7752125.0,2025-06-02,RESOLVED,Company_42,Technology,Germany,0.8,Normal,2025,June
+C0090,B0483,SQL Injection,Critical,4415203.0,7612753.0,2024-05-21,RESOLVED,Company_90,Finance,Japan,1.72,High Priority,2024,May
+C0007,B0406,Phishing,Critical,1396693.0,7612564.0,2024-12-22,UNDER INVESTIGATION,Company_7,Energy,Canada,5.45,High Priority,2024,December
+C0014,B0748,Malware,Low,2523341.0,7600489.0,2025-12-15,RESOLVED,Company_14,Energy,Japan,3.01,Normal,2025,December
+C0073,B0043,Phishing,Critical,6178379.0,7597937.0,2024-03-09,PENDING,Company_73,Finance,USA,1.23,High Priority,2024,March
+C0010,B0123,Malware,Medium,4207061.0,7549826.0,2024-11-23,UNDER INVESTIGATION,Company_10,Retail,Germany,1.79,Normal,2024,November
+C0035,B0319,DDoS,Low,9765095.0,7534649.0,2024-01-18,PENDING,Company_35,Automotive,France,0.77,Normal,2024,January
+C0066,B0089,Insider Threat,High,1067113.0,7460359.0,2024-02-04,UNDER INVESTIGATION,Company_66,Energy,USA,6.99,Normal,2024,February
+C0002,B0554,Insider Threat,Critical,8961405.0,7456700.0,2025-02-22,RESOLVED,Company_2,Retail,India,0.83,High Priority,2025,February
+C0001,B0427,Insider Threat,Medium,7170223.0,7435404.0,2024-07-10,RESOLVED,Company_1,Government,Japan,1.04,Normal,2024,July
+C0079,B0340,DDoS,High,5558884.0,7377159.0,2024-09-28,PENDING,Company_79,Government,USA,1.33,Normal,2024,September
+C0068,B0835,Malware,Critical,4226628.0,7365871.0,2025-11-04,PENDING,Company_68,Automotive,Canada,1.74,High Priority,2025,November
+C0037,B0312,Malware,Medium,9082973.0,7269792.0,2024-03-10,PENDING,Company_37,Healthcare,Germany,0.8,Normal,2024,March
+C0134,B0219,SQL Injection,Low,2080028.0,7183681.0,2024-03-13,UNDER INVESTIGATION,Company_134,Energy,France,3.45,Normal,2024,March
+C0144,B0735,Unknown,Low,8406676.0,7177975.0,2025-06-17,RESOLVED,Company_144,Energy,Japan,0.85,Normal,2025,June
+C0085,B0963,Ransomware,Low,1009753.0,7084575.0,2025-11-20,UNDER INVESTIGATION,Company_85,Education,USA,7.02,Normal,2025,November
+C0032,B0069,DDoS,Low,707111.0,7012120.0,2024-11-23,PENDING,Company_32,Healthcare,India,9.92,Normal,2024,November
+C0120,B0621,Ransomware,Medium,2140501.0,6947975.0,2025-04-06,PENDING,Company_120,Automotive,USA,3.25,Normal,2025,April
+C0074,B0284,SQL Injection,Low,7069224.0,6938458.0,2024-10-18,RESOLVED,Company_74,Retail,UK,0.98,Normal,2024,October
+C0137,B0125,Phishing,Critical,8722829.0,6934440.0,2024-12-11,RESOLVED,Company_137,Government,Germany,0.79,High Priority,2024,December
+C0064,B0765,DDoS,High,5887554.0,6793705.0,2025-08-27,RESOLVED,Company_64,Retail,Australia,1.15,Normal,2025,August
+C0072,B0942,SQL Injection,High,1325031.0,6786907.0,2025-04-11,UNDER INVESTIGATION,Company_72,Finance,France,5.12,Normal,2025,April
+C0077,B0695,DDoS,Medium,9315971.0,6779798.0,2025-07-26,PENDING,Company_77,Education,India,0.73,Normal,2025,July
+C0124,B0436,Phishing,Medium,1222711.0,6743415.0,2024-02-19,PENDING,Company_124,Finance,India,5.52,Normal,2024,February
+C0126,B0360,Ransomware,Critical,2911106.0,6687788.0,2024-11-11,RESOLVED,Company_126,Automotive,Australia,2.3,High Priority,2024,November
+C0146,B0094,DDoS,Low,1502095.0,6673875.0,2024-05-05,RESOLVED,Company_146,Government,India,4.44,Normal,2024,May
+C0120,B0677,DDoS,Low,6756847.0,6655261.0,2025-12-13,PENDING,Company_120,Automotive,USA,0.98,Normal,2025,December
+C0141,B0288,SQL Injection,Low,656024.0,6655203.0,2024-02-25,PENDING,Company_141,Technology,Australia,10.14,Normal,2024,February
+C0129,B0918,Ransomware,High,5821589.0,6654367.0,2025-07-03,PENDING,Company_129,Government,Canada,1.14,Normal,2025,July
+C0056,B0127,Insider Threat,Low,1871898.0,6641195.75,2024-11-04,RESOLVED,Company_56,Energy,France,3.55,Normal,2024,November
+C0026,B0841,Unknown,Critical,2531179.0,6618593.0,2025-08-09,RESOLVED,Company_26,Finance,Japan,2.61,High Priority,2025,August
+C0147,B0705,Unknown,High,5245182.0,6477765.0,2025-12-13,PENDING,Company_147,Technology,UK,1.23,Normal,2025,December
+C0119,B0568,Unknown,High,7880979.0,6434814.0,2025-04-22,PENDING,Company_119,Automotive,Canada,0.82,Normal,2025,April
+C0111,B0394,SQL Injection,Low,980786.0,6401155.0,2024-06-10,PENDING,Company_111,Education,UK,6.53,Normal,2024,June
+C0095,B0110,Phishing,Critical,4082541.0,6391907.0,2024-09-24,UNDER INVESTIGATION,Company_95,Automotive,Germany,1.57,High Priority,2024,September
+C0008,B0697,DDoS,High,3708657.0,6360703.5,2025-10-26,PENDING,Company_8,Healthcare,France,1.72,Normal,2025,October
+C0081,B0859,Unknown,Low,8896432.0,6299734.0,2025-12-22,RESOLVED,Company_81,Healthcare,UK,0.71,Normal,2025,December
+C0021,B0387,Insider Threat,High,2194235.0,6273461.0,2024-09-05,RESOLVED,Company_21,Technology,Australia,2.86,Normal,2024,September
+C0038,B0120,Phishing,Critical,6699013.0,6213095.0,2024-04-20,PENDING,Company_38,Government,Australia,0.93,High Priority,2024,April
+C0145,B0033,Unknown,Low,5255283.0,6147817.0,2024-12-07,UNDER INVESTIGATION,Company_145,Technology,Germany,1.17,Normal,2024,December
+C0016,B0502,SQL Injection,Medium,6145899.0,6071284.0,2025-12-26,PENDING,Company_16,Automotive,India,0.99,Normal,2025,December
+C0106,B0971,DDoS,Critical,5164007.0,6066447.0,2025-07-17,PENDING,Company_106,Retail,Canada,1.17,High Priority,2025,July
+C0094,B0348,DDoS,High,2032304.0,5952890.0,2024-09-09,UNDER INVESTIGATION,Company_94,Automotive,USA,2.93,Normal,2024,September
+C0057,B0205,SQL Injection,Critical,4423015.0,5494192.0,2024-02-14,RESOLVED,Company_57,Technology,USA,1.24,High Priority,2024,February
+C0008,B0646,DDoS,Medium,7054559.0,5462214.0,2025-10-07,RESOLVED,Company_8,Healthcare,France,0.77,Normal,2025,October
+C0010,B0945,Phishing,Critical,1693769.0,5340540.0,2025-05-16,RESOLVED,Company_10,Retail,Germany,3.15,High Priority,2025,May
+C0092,B0528,DDoS,Critical,5398880.0,5309488.0,2025-11-19,RESOLVED,Company_92,Technology,Germany,0.98,High Priority,2025,November
+C0053,B0861,Malware,High,7633231.0,5306132.0,2025-05-08,RESOLVED,Company_53,Automotive,Canada,0.7,Normal,2025,May
+C0023,B0239,Ransomware,Critical,4277632.0,5251186.0,2024-01-26,UNDER INVESTIGATION,Company_23,Automotive,France,1.23,High Priority,2024,January
+C0015,B0750,SQL Injection,Critical,8473617.0,5098789.5,2025-05-16,UNDER INVESTIGATION,Company_15,Finance,India,0.6,High Priority,2025,May
+C0034,B0991,Malware,Low,4510051.0,5029883.0,2025-03-19,UNDER INVESTIGATION,Company_34,Government,Australia,1.12,Normal,2025,March
+C0009,B0977,Malware,Critical,1407487.0,5003123.0,2025-09-19,RESOLVED,Company_9,Automotive,France,3.55,High Priority,2025,September
+C0083,B0343,DDoS,Medium,8236418.0,4915579.0,2024-09-26,RESOLVED,Company_83,Technology,India,0.6,Normal,2024,September
+C0095,B0807,DDoS,Low,3581219.0,4871286.0,2025-07-27,RESOLVED,Company_95,Automotive,Germany,1.36,Normal,2025,July
+C0091,B0916,SQL Injection,High,3913945.0,4857039.0,2025-05-16,RESOLVED,Company_91,Education,India,1.24,Normal,2025,May
+C0113,B0848,Phishing,Low,9299370.0,4818237.0,2025-09-16,UNDER INVESTIGATION,Company_113,Automotive,Australia,0.52,Normal,2025,September
+C0145,B0179,SQL Injection,Medium,56469.0,4795981.0,2024-10-12,PENDING,Company_145,Technology,Germany,84.93,Normal,2024,October
+C0066,B0189,SQL Injection,High,9543962.0,4769299.0,2024-03-10,RESOLVED,Company_66,Energy,USA,0.5,Normal,2024,March
+C0048,B0112,Insider Threat,Medium,4290078.0,4594566.0,2024-04-23,RESOLVED,Company_48,Healthcare,Germany,1.07,Normal,2024,April
+C0065,B0465,Malware,Medium,5715893.0,4592982.0,2024-11-06,PENDING,Company_65,Energy,France,0.8,Normal,2024,November
+C0047,B0602,Unknown,High,3367122.0,4583669.0,2025-12-06,RESOLVED,Company_47,Energy,India,1.36,Normal,2025,December
+C0022,B0139,Insider Threat,High,6725302.0,4553538.0,2024-11-26,PENDING,Company_22,Education,Germany,0.68,Normal,2024,November
+C0089,B0875,Malware,Critical,9101798.0,4507373.0,2025-09-17,RESOLVED,Company_89,Energy,Australia,0.5,High Priority,2025,September
+C0010,B0157,DDoS,Medium,8464095.0,4395352.0,2024-09-12,PENDING,Company_10,Retail,Germany,0.52,Normal,2024,September
+C0065,B0489,Ransomware,Low,9534599.0,4363509.0,2024-08-17,PENDING,Company_65,Energy,France,0.46,Normal,2024,August
+C0048,B0368,Insider Threat,Medium,5499141.0,4355909.0,2024-11-03,RESOLVED,Company_48,Healthcare,Germany,0.79,Normal,2024,November
+C0034,B0136,SQL Injection,Low,5396910.0,4346379.0,2024-03-15,PENDING,Company_34,Government,Australia,0.81,Normal,2024,March
+C0032,B0191,Insider Threat,Medium,959226.0,4324583.33,2024-01-26,UNDER INVESTIGATION,Company_32,Healthcare,India,4.51,Normal,2024,January
+C0049,B0146,Ransomware,Medium,9106433.0,4218142.0,2024-05-13,RESOLVED,Company_49,Technology,Canada,0.46,Normal,2024,May
+C0098,B0638,Insider Threat,Medium,6268100.0,4187411.0,2025-04-15,PENDING,Company_98,Energy,France,0.67,Normal,2025,April
+C0053,B0707,Malware,Medium,9559457.0,4156792.0,2025-07-01,UNDER INVESTIGATION,Company_53,Automotive,Canada,0.43,Normal,2025,July
+C0120,B0519,Phishing,Medium,5707087.0,4091449.0,2025-08-14,RESOLVED,Company_120,Automotive,USA,0.72,Normal,2025,August
+C0040,B0374,Unknown,Medium,2606726.0,4088298.0,2024-12-28,UNDER INVESTIGATION,Company_40,Retail,Japan,1.57,Normal,2024,December
+C0065,B0190,Malware,Medium,8231372.0,4086473.0,2024-04-10,PENDING,Company_65,Energy,France,0.5,Normal,2024,April
+C0036,B0871,Malware,Low,1187944.0,4015096.0,2025-02-09,PENDING,Company_36,Finance,India,3.38,Normal,2025,February
+C0132,B0827,Phishing,Critical,3994064.0,3886946.0,2025-05-14,UNDER INVESTIGATION,Company_132,Education,USA,0.97,High Priority,2025,May
+C0100,B0829,Unknown,Critical,5955299.0,3886885.0,2025-09-19,RESOLVED,Company_100,Finance,Canada,0.65,High Priority,2025,September
+C0015,B0076,Ransomware,Low,8901326.0,3759130.0,2024-08-13,RESOLVED,Company_15,Finance,India,0.42,Normal,2024,August
+C0100,B0151,Ransomware,Low,4813114.0,3757856.5,2024-02-26,PENDING,Company_100,Finance,Canada,0.78,Normal,2024,February
+C0125,B0446,Insider Threat,Critical,7304870.0,3732143.0,2024-01-19,UNDER INVESTIGATION,Company_125,Energy,Japan,0.51,High Priority,2024,January
+C0074,B0996,Phishing,Critical,2905174.0,3697770.0,2025-10-11,RESOLVED,Company_74,Retail,UK,1.27,High Priority,2025,October
+C0074,B0346,Ransomware,Critical,5125797.0,3656376.0,2024-05-11,RESOLVED,Company_74,Retail,UK,0.71,High Priority,2024,May
+C0115,B0569,Insider Threat,Low,5256584.0,3619273.0,2025-07-20,UNDER INVESTIGATION,Company_115,Automotive,Germany,0.69,Normal,2025,July
+C0040,B0784,Insider Threat,Low,8774772.0,3593422.0,2025-03-23,UNDER INVESTIGATION,Company_40,Retail,Japan,0.41,Normal,2025,March
+C0021,B0607,SQL Injection,Medium,8414146.0,3540337.0,2025-07-22,UNDER INVESTIGATION,Company_21,Technology,Australia,0.42,Normal,2025,July
+C0038,B0366,SQL Injection,Low,9966569.0,3466074.0,2024-04-10,RESOLVED,Company_38,Government,Australia,0.35,Normal,2024,April
+C0093,B0513,Phishing,Medium,848469.0,3420423.0,2025-01-16,PENDING,Company_93,Healthcare,India,4.03,Normal,2025,January
+C0083,B0545,DDoS,Medium,3204316.0,3412025.0,2025-11-19,UNDER INVESTIGATION,Company_83,Technology,India,1.06,Normal,2025,November
+C0150,B0095,Insider Threat,High,6057044.0,3397980.67,2024-01-27,UNDER INVESTIGATION,Company_150,Technology,France,0.56,Normal,2024,January
+C0076,B0747,SQL Injection,Medium,5277097.0,3394460.0,2025-04-21,PENDING,Company_76,Energy,USA,0.64,Normal,2025,April
+C0142,B0846,Malware,Medium,8339105.0,3375009.0,2025-04-10,UNDER INVESTIGATION,Company_142,Energy,France,0.4,Normal,2025,April
+C0105,B0538,SQL Injection,Low,6750231.0,3312364.0,2025-04-04,PENDING,Company_105,Retail,Germany,0.49,Normal,2025,April
+C0147,B0296,Insider Threat,High,164445.0,3173924.0,2024-01-25,PENDING,Company_147,Technology,UK,19.3,Normal,2024,January
+C0028,B0514,SQL Injection,Low,81584.0,3136493.0,2025-06-09,PENDING,Company_28,Education,UK,38.44,Normal,2025,June
+C0132,B0148,Unknown,Low,2192131.0,3134216.0,2024-12-20,PENDING,Company_132,Education,USA,1.43,Normal,2024,December
+C0057,B0115,Insider Threat,Critical,2242142.0,3037817.0,2024-09-03,RESOLVED,Company_57,Technology,USA,1.35,High Priority,2024,September
+C0084,B0079,Phishing,High,7419764.0,2971964.0,2024-03-18,PENDING,Company_84,Retail,Germany,0.4,Normal,2024,March
+C0104,B0732,SQL Injection,Critical,3446794.0,2933442.0,2025-09-21,UNDER INVESTIGATION,Company_104,Healthcare,France,0.85,High Priority,2025,September
+C0065,B0573,Ransomware,Medium,5750308.0,2815046.0,2025-08-18,PENDING,Company_65,Energy,France,0.49,Normal,2025,August
+C0049,B0924,Unknown,High,2607256.0,2809561.0,2025-11-17,RESOLVED,Company_49,Technology,Canada,1.08,Normal,2025,November
+C0092,B0103,Insider Threat,Low,2191544.0,2792874.0,2024-01-08,RESOLVED,Company_92,Technology,Germany,1.27,Normal,2024,January
+C0083,B0928,Unknown,Medium,2450998.0,2741425.0,2025-04-11,PENDING,Company_83,Technology,India,1.12,Normal,2025,April
+C0129,B0596,Malware,Critical,4479161.0,2525118.0,2025-12-01,UNDER INVESTIGATION,Company_129,Government,Canada,0.56,High Priority,2025,December
+C0119,B0248,Malware,Low,4492144.0,2471378.0,2024-02-01,RESOLVED,Company_119,Automotive,Canada,0.55,Normal,2024,February
+C0084,B0020,Phishing,High,4364431.0,2415590.0,2024-07-15,UNDER INVESTIGATION,Company_84,Retail,Germany,0.55,Normal,2024,July
+C0007,B0703,Malware,Low,9395726.0,2304664.0,2025-06-15,UNDER INVESTIGATION,Company_7,Energy,Canada,0.25,Normal,2025,June
+C0112,B0606,Ransomware,Low,6164034.0,2287763.0,2025-11-24,RESOLVED,Company_112,Technology,Japan,0.37,Normal,2025,November
+C0124,B0083,Phishing,Low,3982817.0,2217257.0,2024-03-20,RESOLVED,Company_124,Finance,India,0.56,Normal,2024,March
+C0104,B0582,Malware,Low,8129814.0,1985006.0,2025-10-26,PENDING,Company_104,Healthcare,France,0.24,Normal,2025,October
+C0070,B0235,Malware,Medium,3515250.0,1944409.0,2024-05-16,RESOLVED,Company_70,Energy,UK,0.55,Normal,2024,May
+C0070,B0965,Ransomware,Medium,2873310.0,1876638.0,2025-06-23,RESOLVED,Company_70,Energy,UK,0.65,Normal,2025,June
+C0075,B0165,Malware,Low,1467987.0,1776801.0,2024-06-22,RESOLVED,Company_75,Retail,Germany,1.21,Normal,2024,June
+C0102,B0833,DDoS,Medium,2566790.0,1593955.0,2025-02-09,PENDING,Company_102,Technology,Australia,0.62,Normal,2025,February
+C0122,B0822,Unknown,Low,5616184.0,1575197.0,2025-05-06,UNDER INVESTIGATION,Company_122,Energy,Germany,0.28,Normal,2025,May
+C0100,B0781,SQL Injection,Critical,6227547.0,1574790.0,2025-10-02,RESOLVED,Company_100,Finance,Canada,0.25,High Priority,2025,October
+C0062,B0258,Ransomware,High,3729337.0,1505262.0,2024-08-23,PENDING,Company_62,Automotive,Japan,0.4,Normal,2024,August
+C0056,B0560,Phishing,Medium,8370632.0,1356524.0,2025-07-01,UNDER INVESTIGATION,Company_56,Energy,France,0.16,Normal,2025,July
+C0048,B0476,Unknown,Medium,5309005.0,1308688.0,2024-08-26,PENDING,Company_48,Healthcare,Germany,0.25,Normal,2024,August
+C0054,B0800,Malware,Critical,2921871.0,1307278.0,2025-07-27,RESOLVED,Company_54,Automotive,USA,0.45,High Priority,2025,July
+C0095,B0196,Malware,Medium,4629478.0,1229035.0,2024-01-21,UNDER INVESTIGATION,Company_95,Automotive,Germany,0.27,Normal,2024,January
+C0013,B0017,Ransomware,Medium,5617053.0,1203160.0,2024-10-20,RESOLVED,Company_13,Energy,UK,0.21,Normal,2024,October
+C0132,B0178,SQL Injection,Low,6045810.0,1003260.0,2024-10-12,PENDING,Company_132,Education,USA,0.17,Normal,2024,October
+C0105,B0627,Unknown,Low,4871599.0,928018.0,2025-11-03,PENDING,Company_105,Retail,Germany,0.19,Normal,2025,November
+C0137,B0214,Insider Threat,High,1089666.0,867721.0,2024-06-21,UNDER INVESTIGATION,Company_137,Government,Germany,0.8,Normal,2024,June
+C0114,B0262,Malware,Low,8970204.0,860510.0,2024-02-26,UNDER INVESTIGATION,Company_114,Automotive,India,0.1,Normal,2024,February
+C0013,B0315,Ransomware,High,3450852.0,793067.0,2024-02-14,RESOLVED,Company_13,Energy,UK,0.23,Normal,2024,February
+C0106,B0728,Insider Threat,Low,972220.0,706657.0,2025-09-02,RESOLVED,Company_106,Retail,Canada,0.73,Normal,2025,September
+C0127,B0616,Ransomware,Critical,2776837.0,676346.0,2025-08-14,RESOLVED,Company_127,Automotive,Canada,0.24,High Priority,2025,August
+C0088,B0600,Insider Threat,Medium,5332152.0,643157.0,2025-09-18,RESOLVED,Company_88,Healthcare,France,0.12,Normal,2025,September
+C0028,B0838,Phishing,Low,2585965.0,624870.0,2025-05-06,RESOLVED,Company_28,Education,UK,0.24,Normal,2025,May
+C0042,B0790,Phishing,Critical,9692572.0,532136.0,2025-08-21,PENDING,Company_42,Technology,Germany,0.05,High Priority,2025,August
+C0144,B0672,Unknown,High,8288323.0,487424.0,2025-01-22,UNDER INVESTIGATION,Company_144,Energy,Japan,0.06,Normal,2025,January
+C0009,B0077,DDoS,Critical,2289390.0,458259.0,2024-05-24,UNDER INVESTIGATION,Company_9,Automotive,France,0.2,High Priority,2024,May
+C0003,B0912,DDoS,High,311431.0,435894.0,2025-11-28,PENDING,Company_3,Energy,UK,1.4,Normal,2025,November
+C0056,B0777,SQL Injection,Low,8913938.0,401876.0,2025-03-21,PENDING,Company_56,Energy,France,0.05,Normal,2025,March
+C0134,B0459,Insider Threat,High,6470773.0,389781.0,2024-12-24,PENDING,Company_134,Energy,France,0.06,Normal,2024,December
+C0149,B0281,DDoS,Critical,2546799.0,246225.0,2024-07-23,PENDING,Company_149,Healthcare,India,0.1,High Priority,2024,July
+C0147,B0791,DDoS,Critical,3781003.0,194850.0,2025-05-19,PENDING,Company_147,Technology,UK,0.05,High Priority,2025,May
+C0079,B0345,DDoS,Critical,5351524.0,107541.0,2024-04-14,PENDING,Company_79,Government,USA,0.02,High Priority,2024,April
+C0057,B0541,SQL Injection,Low,818677.0,80144.0,2025-11-18,PENDING,Company_57,Technology,USA,0.1,Normal,2025,November
